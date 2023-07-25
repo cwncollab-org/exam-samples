@@ -2,7 +2,7 @@
     {
         "id": "01H661BN0AH4E002GVN7W4BN3R",
         "instruction": "<p>จงตอบคำถามต่อไปนี้</p>",
-        "questionGroup": [
+        "questionGroups": [
             {
                 "id": "01H661BQEJNT61HNFJQW95B7GV",
                 "instruction": "<p>ชุดคำถาม <strong><u>ชุดที่ 1.1</u></strong></p>",
@@ -88,7 +88,7 @@
     {
         "id": "01H661K342W5M4WX4CKA1YJ3VV",
         "instruction": "<p>จงตอบคำถามต่อไปนี้</p>",
-        "questionGroup": [
+        "questionGroups": [
             {
                 "id": "01H661KGBHRQVNKCDPHGZZWZGP",
                 "instruction": "<p>ชุดคำถาม <strong><u>ชุดที่ 2.1</u></strong></p>",
