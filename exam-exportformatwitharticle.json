@@ -1,0 +1,344 @@
+{
+  "version": 1,
+  "title": "",
+  "instruction": "<p><strong style=\"background-color: transparent; color: rgb(0, 0, 0);\">คำเตือน</strong></p><ol><li><span style=\"background-color: transparent;\">ให้ผู้เข้าสอบปฏิบัติตามระเบียบ สทศ. ว่าด้วยแนวทางปฏิบัติเกี่ยวกับการดำเนินการทดสอบ พ.ศ. 2557 อย่างเคร่งครัด</span></li><li><span style=\"background-color: transparent;\">ห้ามนำโทรศัพท์มือถือ หรือ อุปกรณ์สื่อสาร หรือ อุปกรณ์อิเล็กทรอนิกส์ทุกชนิดเข้าห้องสอบโดยเด็ดขาด</span></li><li><span style=\"background-color: transparent;\">ห้ามคัดลอก บันทึกภาพ หรือเผยแพร่แบบทดสอบ หรือกระดาษคำตอบโดยเด็ดขาด</span></li></ol><p><br></p><p><strong style=\"background-color: transparent; color: rgb(0, 0, 0);\">หากผู้เข้าสอบฝ่าฝืนข้อปฏิบัติ สทศ. อาจดำเนินการ ดังนี้</strong></p><ol><li><span style=\"background-color: transparent;\">ไม่ประกาศผลสอบในรายวิชานั้นๆ หรือ ทุกรายวิชา</span></li><li><span style=\"background-color: transparent;\">แจ้งไปยังสถานศึกษาของผู้เข้าสอบ เพื่อดำเนินการทางวินัย</span></li><li><span style=\"background-color: transparent;\">แจ้งพฤติการณ์ฝ่าฝืนไปยังสถานบันอุดมศึกษา เพื่อประกอบการรับเข้าศึกษาต่อ</span></li><li><span style=\"background-color: transparent;\">ดำเนินคดีตามกฏหมายในกรณีที่เกิดความเสียหายแก่ระบบการทดสอบและ สทศ.</span></li></ol><p><br></p><p class=\"ql-align-center\"><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">เอกสารนี้ เป็นลิขสิทธิ์ของสถาบันทดสอบทางการศึกษาแห่งชาติ&nbsp;</span></p><p class=\"ql-align-center\"><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">(องค์การมหาชน) การทำซ้ำหรือดัดแปลงหรือเผยแพร่งานดังกล่าว จะถูกดำเนินคดีตามกฏหมาย</span></p><p><br></p>",
+  "author": "hello world",
+  "numberOfQuestions": 2,
+  "numberOfSets": 1,
+  "documentCreatedDate": "2023-09-01T07:54:45.630Z",
+  "documentUpdatedDate": "2023-09-01T08:07:12.261Z",
+  "documentExportedDate": "2023-09-01T10:21:46.125Z",
+  "questionSetsEncrypted": "",
+  "solutionEncrypted": "",
+  "questionSets": [
+    [
+      {
+        "id": "01H98442SMBBFB9E8E2PZ5XXQF",
+        "instruction": "<p><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Part I: Language Use (Items 1 - 35)</span></p>",
+        "questionGroups": [
+          {
+            "id": "01H9844A2K19TKR9X9ME9AT7SZ",
+            "instruction": "<p>Dialog Completion (Items 1 - 10)</p><p><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Directions: Read the dialogs and choose the expression that&nbsp; BEST completes each missing part.</span></p><p><br></p><p><br></p>",
+            "article": "<h4><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Dialog 1</span></h4><p><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Situation: At the international night party for exchange students</span></p><p><br></p><p><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kim: &nbsp; &nbsp; &nbsp; &nbsp; Hi,I’m Park Jun Hye from Korea.</span></p><p><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sandra: &nbsp; ___1___&nbsp; My name’s Sandra Smith. I come from Australia. ___2___</span></p><p><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kim:&nbsp; &nbsp; &nbsp; &nbsp; Well, yes. Twice. I have a cousin who lives in Brisbane. I like a lot. ___3___</span></p><p><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sandra: &nbsp; Sydney in New South Wales.</span></p><p><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kim:&nbsp; &nbsp; &nbsp; &nbsp; I see. You know. I plan to visit Sydney this December. ___4___</span></p><p><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sandra:&nbsp; Sure. You should visit the Harbor Bridge, the Opera House, the sandy beaches, and the vineyards.</span></p><p><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kim:&nbsp; &nbsp; &nbsp; &nbsp; ___5___</span></p><p><br></p><p><br></p>",
+            "questions": [
+              {
+                "id": "01H9844RQV1DYPHPCJJPKERQPM",
+                "type": "multipleChoice",
+                "question": "",
+                "choiceList": [
+                  {
+                    "id": "01H9844RQVTZXTW137YH7D3VS4",
+                    "label": "<p><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Long time no see.</span></p>"
+                  },
+                  {
+                    "id": "01H9844RQVJW996AV231DR9Q5N",
+                    "label": "<p><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Glad to meet you.</span></p>"
+                  },
+                  {
+                    "id": "01H9844RQV8VE78318AV71VSH2",
+                    "label": "<p><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Very well, thank you.</span></p>"
+                  },
+                  {
+                    "id": "01H9844RQVC8GS1BY47CRAHCRS",
+                    "label": "<p><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Haven’t seen you in ages.</span></p>"
+                  }
+                ]
+              },
+              {
+                "id": "01H9845GBVC4BG4JHHAW0TX7JD",
+                "type": "multipleChoice",
+                "question": "",
+                "choiceList": [
+                  {
+                    "id": "01H9845GBVZFKYDA6FRRSXF84V",
+                    "label": "<p><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Do you like Australia?</span></p>"
+                  },
+                  {
+                    "id": "01H9845GBVT5GH2Q2FRT50D0DK",
+                    "label": "<p><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Will you visit Australia?</span></p>"
+                  },
+                  {
+                    "id": "01H9845GBVDM79VMFM5ZZ72JYH",
+                    "label": "<p><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Have you ever been to Australia?</span></p>"
+                  },
+                  {
+                    "id": "01H9845GBVZD6RYHVV7BS8XEFQ",
+                    "label": "<p><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Do you know anyone in Brisbane?</span></p>"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  ],
+  "solution": [
+    {
+      "questionId": "01H9844RQV1DYPHPCJJPKERQPM",
+      "scoreTable": [
+        {
+          "pattern": {
+            "01H9844RQVTZXTW137YH7D3VS4": false,
+            "01H9844RQVJW996AV231DR9Q5N": false,
+            "01H9844RQV8VE78318AV71VSH2": false,
+            "01H9844RQVC8GS1BY47CRAHCRS": false
+          }
+        },
+        {
+          "pattern": {
+            "01H9844RQVTZXTW137YH7D3VS4": false,
+            "01H9844RQVJW996AV231DR9Q5N": false,
+            "01H9844RQV8VE78318AV71VSH2": false,
+            "01H9844RQVC8GS1BY47CRAHCRS": true
+          }
+        },
+        {
+          "pattern": {
+            "01H9844RQVTZXTW137YH7D3VS4": false,
+            "01H9844RQVJW996AV231DR9Q5N": false,
+            "01H9844RQV8VE78318AV71VSH2": true,
+            "01H9844RQVC8GS1BY47CRAHCRS": false
+          }
+        },
+        {
+          "pattern": {
+            "01H9844RQVTZXTW137YH7D3VS4": false,
+            "01H9844RQVJW996AV231DR9Q5N": false,
+            "01H9844RQV8VE78318AV71VSH2": true,
+            "01H9844RQVC8GS1BY47CRAHCRS": true
+          }
+        },
+        {
+          "pattern": {
+            "01H9844RQVTZXTW137YH7D3VS4": false,
+            "01H9844RQVJW996AV231DR9Q5N": true,
+            "01H9844RQV8VE78318AV71VSH2": false,
+            "01H9844RQVC8GS1BY47CRAHCRS": false
+          }
+        },
+        {
+          "pattern": {
+            "01H9844RQVTZXTW137YH7D3VS4": false,
+            "01H9844RQVJW996AV231DR9Q5N": true,
+            "01H9844RQV8VE78318AV71VSH2": false,
+            "01H9844RQVC8GS1BY47CRAHCRS": true
+          }
+        },
+        {
+          "pattern": {
+            "01H9844RQVTZXTW137YH7D3VS4": false,
+            "01H9844RQVJW996AV231DR9Q5N": true,
+            "01H9844RQV8VE78318AV71VSH2": true,
+            "01H9844RQVC8GS1BY47CRAHCRS": false
+          }
+        },
+        {
+          "pattern": {
+            "01H9844RQVTZXTW137YH7D3VS4": false,
+            "01H9844RQVJW996AV231DR9Q5N": true,
+            "01H9844RQV8VE78318AV71VSH2": true,
+            "01H9844RQVC8GS1BY47CRAHCRS": true
+          }
+        },
+        {
+          "pattern": {
+            "01H9844RQVTZXTW137YH7D3VS4": true,
+            "01H9844RQVJW996AV231DR9Q5N": false,
+            "01H9844RQV8VE78318AV71VSH2": false,
+            "01H9844RQVC8GS1BY47CRAHCRS": false
+          }
+        },
+        {
+          "pattern": {
+            "01H9844RQVTZXTW137YH7D3VS4": true,
+            "01H9844RQVJW996AV231DR9Q5N": false,
+            "01H9844RQV8VE78318AV71VSH2": false,
+            "01H9844RQVC8GS1BY47CRAHCRS": true
+          }
+        },
+        {
+          "pattern": {
+            "01H9844RQVTZXTW137YH7D3VS4": true,
+            "01H9844RQVJW996AV231DR9Q5N": false,
+            "01H9844RQV8VE78318AV71VSH2": true,
+            "01H9844RQVC8GS1BY47CRAHCRS": false
+          }
+        },
+        {
+          "pattern": {
+            "01H9844RQVTZXTW137YH7D3VS4": true,
+            "01H9844RQVJW996AV231DR9Q5N": false,
+            "01H9844RQV8VE78318AV71VSH2": true,
+            "01H9844RQVC8GS1BY47CRAHCRS": true
+          }
+        },
+        {
+          "pattern": {
+            "01H9844RQVTZXTW137YH7D3VS4": true,
+            "01H9844RQVJW996AV231DR9Q5N": true,
+            "01H9844RQV8VE78318AV71VSH2": false,
+            "01H9844RQVC8GS1BY47CRAHCRS": false
+          }
+        },
+        {
+          "pattern": {
+            "01H9844RQVTZXTW137YH7D3VS4": true,
+            "01H9844RQVJW996AV231DR9Q5N": true,
+            "01H9844RQV8VE78318AV71VSH2": false,
+            "01H9844RQVC8GS1BY47CRAHCRS": true
+          }
+        },
+        {
+          "pattern": {
+            "01H9844RQVTZXTW137YH7D3VS4": true,
+            "01H9844RQVJW996AV231DR9Q5N": true,
+            "01H9844RQV8VE78318AV71VSH2": true,
+            "01H9844RQVC8GS1BY47CRAHCRS": false
+          }
+        },
+        {
+          "pattern": {
+            "01H9844RQVTZXTW137YH7D3VS4": true,
+            "01H9844RQVJW996AV231DR9Q5N": true,
+            "01H9844RQV8VE78318AV71VSH2": true,
+            "01H9844RQVC8GS1BY47CRAHCRS": true
+          }
+        }
+      ]
+    },
+    {
+      "questionId": "01H9845GBVC4BG4JHHAW0TX7JD",
+      "scoreTable": [
+        {
+          "pattern": {
+            "01H9845GBVZFKYDA6FRRSXF84V": false,
+            "01H9845GBVT5GH2Q2FRT50D0DK": false,
+            "01H9845GBVDM79VMFM5ZZ72JYH": false,
+            "01H9845GBVZD6RYHVV7BS8XEFQ": false
+          }
+        },
+        {
+          "pattern": {
+            "01H9845GBVZFKYDA6FRRSXF84V": false,
+            "01H9845GBVT5GH2Q2FRT50D0DK": false,
+            "01H9845GBVDM79VMFM5ZZ72JYH": false,
+            "01H9845GBVZD6RYHVV7BS8XEFQ": true
+          }
+        },
+        {
+          "pattern": {
+            "01H9845GBVZFKYDA6FRRSXF84V": false,
+            "01H9845GBVT5GH2Q2FRT50D0DK": false,
+            "01H9845GBVDM79VMFM5ZZ72JYH": true,
+            "01H9845GBVZD6RYHVV7BS8XEFQ": false
+          }
+        },
+        {
+          "pattern": {
+            "01H9845GBVZFKYDA6FRRSXF84V": false,
+            "01H9845GBVT5GH2Q2FRT50D0DK": false,
+            "01H9845GBVDM79VMFM5ZZ72JYH": true,
+            "01H9845GBVZD6RYHVV7BS8XEFQ": true
+          }
+        },
+        {
+          "pattern": {
+            "01H9845GBVZFKYDA6FRRSXF84V": false,
+            "01H9845GBVT5GH2Q2FRT50D0DK": true,
+            "01H9845GBVDM79VMFM5ZZ72JYH": false,
+            "01H9845GBVZD6RYHVV7BS8XEFQ": false
+          }
+        },
+        {
+          "pattern": {
+            "01H9845GBVZFKYDA6FRRSXF84V": false,
+            "01H9845GBVT5GH2Q2FRT50D0DK": true,
+            "01H9845GBVDM79VMFM5ZZ72JYH": false,
+            "01H9845GBVZD6RYHVV7BS8XEFQ": true
+          }
+        },
+        {
+          "pattern": {
+            "01H9845GBVZFKYDA6FRRSXF84V": false,
+            "01H9845GBVT5GH2Q2FRT50D0DK": true,
+            "01H9845GBVDM79VMFM5ZZ72JYH": true,
+            "01H9845GBVZD6RYHVV7BS8XEFQ": false
+          }
+        },
+        {
+          "pattern": {
+            "01H9845GBVZFKYDA6FRRSXF84V": false,
+            "01H9845GBVT5GH2Q2FRT50D0DK": true,
+            "01H9845GBVDM79VMFM5ZZ72JYH": true,
+            "01H9845GBVZD6RYHVV7BS8XEFQ": true
+          }
+        },
+        {
+          "pattern": {
+            "01H9845GBVZFKYDA6FRRSXF84V": true,
+            "01H9845GBVT5GH2Q2FRT50D0DK": false,
+            "01H9845GBVDM79VMFM5ZZ72JYH": false,
+            "01H9845GBVZD6RYHVV7BS8XEFQ": false
+          }
+        },
+        {
+          "pattern": {
+            "01H9845GBVZFKYDA6FRRSXF84V": true,
+            "01H9845GBVT5GH2Q2FRT50D0DK": false,
+            "01H9845GBVDM79VMFM5ZZ72JYH": false,
+            "01H9845GBVZD6RYHVV7BS8XEFQ": true
+          }
+        },
+        {
+          "pattern": {
+            "01H9845GBVZFKYDA6FRRSXF84V": true,
+            "01H9845GBVT5GH2Q2FRT50D0DK": false,
+            "01H9845GBVDM79VMFM5ZZ72JYH": true,
+            "01H9845GBVZD6RYHVV7BS8XEFQ": false
+          }
+        },
+        {
+          "pattern": {
+            "01H9845GBVZFKYDA6FRRSXF84V": true,
+            "01H9845GBVT5GH2Q2FRT50D0DK": false,
+            "01H9845GBVDM79VMFM5ZZ72JYH": true,
+            "01H9845GBVZD6RYHVV7BS8XEFQ": true
+          }
+        },
+        {
+          "pattern": {
+            "01H9845GBVZFKYDA6FRRSXF84V": true,
+            "01H9845GBVT5GH2Q2FRT50D0DK": true,
+            "01H9845GBVDM79VMFM5ZZ72JYH": false,
+            "01H9845GBVZD6RYHVV7BS8XEFQ": false
+          }
+        },
+        {
+          "pattern": {
+            "01H9845GBVZFKYDA6FRRSXF84V": true,
+            "01H9845GBVT5GH2Q2FRT50D0DK": true,
+            "01H9845GBVDM79VMFM5ZZ72JYH": false,
+            "01H9845GBVZD6RYHVV7BS8XEFQ": true
+          }
+        },
+        {
+          "pattern": {
+            "01H9845GBVZFKYDA6FRRSXF84V": true,
+            "01H9845GBVT5GH2Q2FRT50D0DK": true,
+            "01H9845GBVDM79VMFM5ZZ72JYH": true,
+            "01H9845GBVZD6RYHVV7BS8XEFQ": false
+          }
+        },
+        {
+          "pattern": {
+            "01H9845GBVZFKYDA6FRRSXF84V": true,
+            "01H9845GBVT5GH2Q2FRT50D0DK": true,
+            "01H9845GBVDM79VMFM5ZZ72JYH": true,
+            "01H9845GBVZD6RYHVV7BS8XEFQ": true
+          }
+        }
+      ]
+    }
+  ]
+}
