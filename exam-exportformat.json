@@ -1,4 +1,18 @@
 {
+  "version": 1,
+  "title": "",
+  "instruction": "<p><strong style=\"background-color: transparent; color: rgb(0, 0, 0);\">คำเตือน</strong></p><ol><li><span style=\"background-color: transparent;\">ให้ผู้เข้าสอบปฏิบัติตามระเบียบ สทศ. ว่าด้วยแนวทางปฏิบัติเกี่ยวกับการดำเนินการทดสอบ พ.ศ. 2557 อย่างเคร่งครัด</span></li><li><span style=\"background-color: transparent;\">ห้ามนำโทรศัพท์มือถือ หรือ อุปกรณ์สื่อสาร หรือ อุปกรณ์อิเล็กทรอนิกส์ทุกชนิดเข้าห้องสอบโดยเด็ดขาด</span></li><li><span style=\"background-color: transparent;\">ห้ามคัดลอก บันทึกภาพ หรือเผยแพร่แบบทดสอบ หรือกระดาษคำตอบโดยเด็ดขาด</span></li></ol><p><br></p><p><strong style=\"background-color: transparent; color: rgb(0, 0, 0);\">หากผู้เข้าสอบฝ่าฝืนข้อปฏิบัติ สทศ. อาจดำเนินการ ดังนี้</strong></p><ol><li><span style=\"background-color: transparent;\">ไม่ประกาศผลสอบในรายวิชานั้นๆ หรือ ทุกรายวิชา</span></li><li><span style=\"background-color: transparent;\">แจ้งไปยังสถานศึกษาของผู้เข้าสอบ เพื่อดำเนินการทางวินัย</span></li><li><span style=\"background-color: transparent;\">แจ้งพฤติการณ์ฝ่าฝืนไปยังสถานบันอุดมศึกษา เพื่อประกอบการรับเข้าศึกษาต่อ</span></li><li><span style=\"background-color: transparent;\">ดำเนินคดีตามกฏหมายในกรณีที่เกิดความเสียหายแก่ระบบการทดสอบและ สทศ.</span></li></ol><p><br></p><p class=\"ql-align-center\"><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">เอกสารนี้ เป็นลิขสิทธิ์ของสถาบันทดสอบทางการศึกษาแห่งชาติ&nbsp;</span></p><p class=\"ql-align-center\"><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">(องค์การมหาชน) การทำซ้ำหรือดัดแปลงหรือเผยแพร่งานดังกล่าว จะถูกดำเนินคดีตามกฏหมาย</span></p><p><br></p><p><br></p>",
+  "author": "hello world",
+  "numberOfQuestions": 21,
+  "numberOfSets": 1,
+  "documentCreatedDate": "2023-09-01T06:52:51.537Z",
+  "documentUpdatedDate": "2023-09-01T06:52:51.537Z",
+  "documentExportedDate": "2023-09-01T07:05:09.340Z",
+  "questionSetsEncrypted": "",
+  "solutionEncrypted": "",
+  "questionSets": [
+    [
+      {
         "id": "01H8ZYQZ8S5MWQVH8Q34FQKAPE",
         "instruction": "<p><br></p>",
         "questionGroups": [
@@ -396,3 +410,2709 @@
           }
         ]
       }
+    ]
+  ],
+  "solution": [
+    {
+      "questionId": "01H8ZYS09KQ38CKX951BK430D2",
+      "scoreTable": [
+        {
+          "pattern": {
+            "01H8ZYS09KT0V3RKFXT1D2F31Y": false,
+            "01H8ZYS09KWNJ1RF16BKNDQT1M": false,
+            "01H8ZYS09K5G1NTBJK68Y37H68": false,
+            "01H8ZYS09K6GY7770W5VN5A2RW": false
+          },
+          "score": 0
+        },
+        {
+          "pattern": {
+            "01H8ZYS09KT0V3RKFXT1D2F31Y": false,
+            "01H8ZYS09KWNJ1RF16BKNDQT1M": false,
+            "01H8ZYS09K5G1NTBJK68Y37H68": false,
+            "01H8ZYS09K6GY7770W5VN5A2RW": true
+          },
+          "score": 0
+        },
+        {
+          "pattern": {
+            "01H8ZYS09KT0V3RKFXT1D2F31Y": false,
+            "01H8ZYS09KWNJ1RF16BKNDQT1M": false,
+            "01H8ZYS09K5G1NTBJK68Y37H68": true,
+            "01H8ZYS09K6GY7770W5VN5A2RW": false
+          },
+          "score": 0
+        },
+        {
+          "pattern": {
+            "01H8ZYS09KT0V3RKFXT1D2F31Y": false,
+            "01H8ZYS09KWNJ1RF16BKNDQT1M": false,
+            "01H8ZYS09K5G1NTBJK68Y37H68": true,
+            "01H8ZYS09K6GY7770W5VN5A2RW": true
+          },
+          "score": 0
+        },
+        {
+          "pattern": {
+            "01H8ZYS09KT0V3RKFXT1D2F31Y": false,
+            "01H8ZYS09KWNJ1RF16BKNDQT1M": true,
+            "01H8ZYS09K5G1NTBJK68Y37H68": false,
+            "01H8ZYS09K6GY7770W5VN5A2RW": false
+          },
+          "score": 0
+        },
+        {
+          "pattern": {
+            "01H8ZYS09KT0V3RKFXT1D2F31Y": false,
+            "01H8ZYS09KWNJ1RF16BKNDQT1M": true,
+            "01H8ZYS09K5G1NTBJK68Y37H68": false,
+            "01H8ZYS09K6GY7770W5VN5A2RW": true
+          },
+          "score": 0
+        },
+        {
+          "pattern": {
+            "01H8ZYS09KT0V3RKFXT1D2F31Y": false,
+            "01H8ZYS09KWNJ1RF16BKNDQT1M": true,
+            "01H8ZYS09K5G1NTBJK68Y37H68": true,
+            "01H8ZYS09K6GY7770W5VN5A2RW": false
+          },
+          "score": 0
+        },
+        {
+          "pattern": {
+            "01H8ZYS09KT0V3RKFXT1D2F31Y": false,
+            "01H8ZYS09KWNJ1RF16BKNDQT1M": true,
+            "01H8ZYS09K5G1NTBJK68Y37H68": true,
+            "01H8ZYS09K6GY7770W5VN5A2RW": true
+          },
+          "score": 0
+        },
+        {
+          "pattern": {
+            "01H8ZYS09KT0V3RKFXT1D2F31Y": true,
+            "01H8ZYS09KWNJ1RF16BKNDQT1M": false,
+            "01H8ZYS09K5G1NTBJK68Y37H68": false,
+            "01H8ZYS09K6GY7770W5VN5A2RW": false
+          },
+          "score": 3
+        },
+        {
+          "pattern": {
+            "01H8ZYS09KT0V3RKFXT1D2F31Y": true,
+            "01H8ZYS09KWNJ1RF16BKNDQT1M": false,
+            "01H8ZYS09K5G1NTBJK68Y37H68": false,
+            "01H8ZYS09K6GY7770W5VN5A2RW": true
+          },
+          "score": 0
+        },
+        {
+          "pattern": {
+            "01H8ZYS09KT0V3RKFXT1D2F31Y": true,
+            "01H8ZYS09KWNJ1RF16BKNDQT1M": false,
+            "01H8ZYS09K5G1NTBJK68Y37H68": true,
+            "01H8ZYS09K6GY7770W5VN5A2RW": false
+          },
+          "score": 0
+        },
+        {
+          "pattern": {
+            "01H8ZYS09KT0V3RKFXT1D2F31Y": true,
+            "01H8ZYS09KWNJ1RF16BKNDQT1M": false,
+            "01H8ZYS09K5G1NTBJK68Y37H68": true,
+            "01H8ZYS09K6GY7770W5VN5A2RW": true
+          },
+          "score": 0
+        },
+        {
+          "pattern": {
+            "01H8ZYS09KT0V3RKFXT1D2F31Y": true,
+            "01H8ZYS09KWNJ1RF16BKNDQT1M": true,
+            "01H8ZYS09K5G1NTBJK68Y37H68": false,
+            "01H8ZYS09K6GY7770W5VN5A2RW": false
+          },
+          "score": 0
+        },
+        {
+          "pattern": {
+            "01H8ZYS09KT0V3RKFXT1D2F31Y": true,
+            "01H8ZYS09KWNJ1RF16BKNDQT1M": true,
+            "01H8ZYS09K5G1NTBJK68Y37H68": false,
+            "01H8ZYS09K6GY7770W5VN5A2RW": true
+          },
+          "score": 0
+        },
+        {
+          "pattern": {
+            "01H8ZYS09KT0V3RKFXT1D2F31Y": true,
+            "01H8ZYS09KWNJ1RF16BKNDQT1M": true,
+            "01H8ZYS09K5G1NTBJK68Y37H68": true,
+            "01H8ZYS09K6GY7770W5VN5A2RW": false
+          },
+          "score": 0
+        },
+        {
+          "pattern": {
+            "01H8ZYS09KT0V3RKFXT1D2F31Y": true,
+            "01H8ZYS09KWNJ1RF16BKNDQT1M": true,
+            "01H8ZYS09K5G1NTBJK68Y37H68": true,
+            "01H8ZYS09K6GY7770W5VN5A2RW": true
+          },
+          "score": 0
+        }
+      ]
+    },
+    {
+      "questionId": "01H8ZYSQ71MHRZ95Y1RX45S0T7",
+      "scoreTable": [
+        {
+          "pattern": {
+            "01H8ZYSQ71KKZDXYC938TG9DYS": false,
+            "01H8ZYSQ71VDGKRBFW1R3H69DR": false,
+            "01H8ZYSQ71WEC2V31D1GR7K99Q": false,
+            "01H8ZYSQ71YS6T4HKAF5AN5BMJ": false
+          },
+          "score": 0
+        },
+        {
+          "pattern": {
+            "01H8ZYSQ71KKZDXYC938TG9DYS": false,
+            "01H8ZYSQ71VDGKRBFW1R3H69DR": false,
+            "01H8ZYSQ71WEC2V31D1GR7K99Q": false,
+            "01H8ZYSQ71YS6T4HKAF5AN5BMJ": true
+          },
+          "score": 0
+        },
+        {
+          "pattern": {
+            "01H8ZYSQ71KKZDXYC938TG9DYS": false,
+            "01H8ZYSQ71VDGKRBFW1R3H69DR": false,
+            "01H8ZYSQ71WEC2V31D1GR7K99Q": true,
+            "01H8ZYSQ71YS6T4HKAF5AN5BMJ": false
+          },
+          "score": 0
+        },
+        {
+          "pattern": {
+            "01H8ZYSQ71KKZDXYC938TG9DYS": false,
+            "01H8ZYSQ71VDGKRBFW1R3H69DR": false,
+            "01H8ZYSQ71WEC2V31D1GR7K99Q": true,
+            "01H8ZYSQ71YS6T4HKAF5AN5BMJ": true
+          },
+          "score": 0
+        },
+        {
+          "pattern": {
+            "01H8ZYSQ71KKZDXYC938TG9DYS": false,
+            "01H8ZYSQ71VDGKRBFW1R3H69DR": true,
+            "01H8ZYSQ71WEC2V31D1GR7K99Q": false,
+            "01H8ZYSQ71YS6T4HKAF5AN5BMJ": false
+          },
+          "score": 0
+        },
+        {
+          "pattern": {
+            "01H8ZYSQ71KKZDXYC938TG9DYS": false,
+            "01H8ZYSQ71VDGKRBFW1R3H69DR": true,
+            "01H8ZYSQ71WEC2V31D1GR7K99Q": false,
+            "01H8ZYSQ71YS6T4HKAF5AN5BMJ": true
+          },
+          "score": 0
+        },
+        {
+          "pattern": {
+            "01H8ZYSQ71KKZDXYC938TG9DYS": false,
+            "01H8ZYSQ71VDGKRBFW1R3H69DR": true,
+            "01H8ZYSQ71WEC2V31D1GR7K99Q": true,
+            "01H8ZYSQ71YS6T4HKAF5AN5BMJ": false
+          },
+          "score": 0
+        },
+        {
+          "pattern": {
+            "01H8ZYSQ71KKZDXYC938TG9DYS": false,
+            "01H8ZYSQ71VDGKRBFW1R3H69DR": true,
+            "01H8ZYSQ71WEC2V31D1GR7K99Q": true,
+            "01H8ZYSQ71YS6T4HKAF5AN5BMJ": true
+          },
+          "score": 0
+        },
+        {
+          "pattern": {
+            "01H8ZYSQ71KKZDXYC938TG9DYS": true,
+            "01H8ZYSQ71VDGKRBFW1R3H69DR": false,
+            "01H8ZYSQ71WEC2V31D1GR7K99Q": false,
+            "01H8ZYSQ71YS6T4HKAF5AN5BMJ": false
+          },
+          "score": 1
+        },
+        {
+          "pattern": {
+            "01H8ZYSQ71KKZDXYC938TG9DYS": true,
+            "01H8ZYSQ71VDGKRBFW1R3H69DR": false,
+            "01H8ZYSQ71WEC2V31D1GR7K99Q": false,
+            "01H8ZYSQ71YS6T4HKAF5AN5BMJ": true
+          },
+          "score": 0
+        },
+        {
+          "pattern": {
+            "01H8ZYSQ71KKZDXYC938TG9DYS": true,
+            "01H8ZYSQ71VDGKRBFW1R3H69DR": false,
+            "01H8ZYSQ71WEC2V31D1GR7K99Q": true,
+            "01H8ZYSQ71YS6T4HKAF5AN5BMJ": false
+          },
+          "score": 0
+        },
+        {
+          "pattern": {
+            "01H8ZYSQ71KKZDXYC938TG9DYS": true,
+            "01H8ZYSQ71VDGKRBFW1R3H69DR": false,
+            "01H8ZYSQ71WEC2V31D1GR7K99Q": true,
+            "01H8ZYSQ71YS6T4HKAF5AN5BMJ": true
+          },
+          "score": 0
+        },
+        {
+          "pattern": {
+            "01H8ZYSQ71KKZDXYC938TG9DYS": true,
+            "01H8ZYSQ71VDGKRBFW1R3H69DR": true,
+            "01H8ZYSQ71WEC2V31D1GR7K99Q": false,
+            "01H8ZYSQ71YS6T4HKAF5AN5BMJ": false
+          },
+          "score": 0
+        },
+        {
+          "pattern": {
+            "01H8ZYSQ71KKZDXYC938TG9DYS": true,
+            "01H8ZYSQ71VDGKRBFW1R3H69DR": true,
+            "01H8ZYSQ71WEC2V31D1GR7K99Q": false,
+            "01H8ZYSQ71YS6T4HKAF5AN5BMJ": true
+          },
+          "score": 0
+        },
+        {
+          "pattern": {
+            "01H8ZYSQ71KKZDXYC938TG9DYS": true,
+            "01H8ZYSQ71VDGKRBFW1R3H69DR": true,
+            "01H8ZYSQ71WEC2V31D1GR7K99Q": true,
+            "01H8ZYSQ71YS6T4HKAF5AN5BMJ": false
+          },
+          "score": 0
+        },
+        {
+          "pattern": {
+            "01H8ZYSQ71KKZDXYC938TG9DYS": true,
+            "01H8ZYSQ71VDGKRBFW1R3H69DR": true,
+            "01H8ZYSQ71WEC2V31D1GR7K99Q": true,
+            "01H8ZYSQ71YS6T4HKAF5AN5BMJ": true
+          },
+          "score": 0
+        }
+      ]
+    },
+    {
+      "questionId": "01H8ZYW02VP7T4B26RTVNFFTAR",
+      "scoreTable": [
+        {
+          "pattern": {
+            "01H8ZYW02V50VG55424NXGQW17": false,
+            "01H8ZYW02VTZXEF9CVAHYV79T8": false,
+            "01H8ZYW02VE9K68FEC158YP7C6": false,
+            "01H8ZYW02V2YE571QTM3C92X5R": false
+          }
+        },
+        {
+          "pattern": {
+            "01H8ZYW02V50VG55424NXGQW17": false,
+            "01H8ZYW02VTZXEF9CVAHYV79T8": false,
+            "01H8ZYW02VE9K68FEC158YP7C6": false,
+            "01H8ZYW02V2YE571QTM3C92X5R": true
+          }
+        },
+        {
+          "pattern": {
+            "01H8ZYW02V50VG55424NXGQW17": false,
+            "01H8ZYW02VTZXEF9CVAHYV79T8": false,
+            "01H8ZYW02VE9K68FEC158YP7C6": true,
+            "01H8ZYW02V2YE571QTM3C92X5R": false
+          }
+        },
+        {
+          "pattern": {
+            "01H8ZYW02V50VG55424NXGQW17": false,
+            "01H8ZYW02VTZXEF9CVAHYV79T8": false,
+            "01H8ZYW02VE9K68FEC158YP7C6": true,
+            "01H8ZYW02V2YE571QTM3C92X5R": true
+          }
+        },
+        {
+          "pattern": {
+            "01H8ZYW02V50VG55424NXGQW17": false,
+            "01H8ZYW02VTZXEF9CVAHYV79T8": true,
+            "01H8ZYW02VE9K68FEC158YP7C6": false,
+            "01H8ZYW02V2YE571QTM3C92X5R": false
+          }
+        },
+        {
+          "pattern": {
+            "01H8ZYW02V50VG55424NXGQW17": false,
+            "01H8ZYW02VTZXEF9CVAHYV79T8": true,
+            "01H8ZYW02VE9K68FEC158YP7C6": false,
+            "01H8ZYW02V2YE571QTM3C92X5R": true
+          }
+        },
+        {
+          "pattern": {
+            "01H8ZYW02V50VG55424NXGQW17": false,
+            "01H8ZYW02VTZXEF9CVAHYV79T8": true,
+            "01H8ZYW02VE9K68FEC158YP7C6": true,
+            "01H8ZYW02V2YE571QTM3C92X5R": false
+          }
+        },
+        {
+          "pattern": {
+            "01H8ZYW02V50VG55424NXGQW17": false,
+            "01H8ZYW02VTZXEF9CVAHYV79T8": true,
+            "01H8ZYW02VE9K68FEC158YP7C6": true,
+            "01H8ZYW02V2YE571QTM3C92X5R": true
+          }
+        },
+        {
+          "pattern": {
+            "01H8ZYW02V50VG55424NXGQW17": true,
+            "01H8ZYW02VTZXEF9CVAHYV79T8": false,
+            "01H8ZYW02VE9K68FEC158YP7C6": false,
+            "01H8ZYW02V2YE571QTM3C92X5R": false
+          }
+        },
+        {
+          "pattern": {
+            "01H8ZYW02V50VG55424NXGQW17": true,
+            "01H8ZYW02VTZXEF9CVAHYV79T8": false,
+            "01H8ZYW02VE9K68FEC158YP7C6": false,
+            "01H8ZYW02V2YE571QTM3C92X5R": true
+          }
+        },
+        {
+          "pattern": {
+            "01H8ZYW02V50VG55424NXGQW17": true,
+            "01H8ZYW02VTZXEF9CVAHYV79T8": false,
+            "01H8ZYW02VE9K68FEC158YP7C6": true,
+            "01H8ZYW02V2YE571QTM3C92X5R": false
+          }
+        },
+        {
+          "pattern": {
+            "01H8ZYW02V50VG55424NXGQW17": true,
+            "01H8ZYW02VTZXEF9CVAHYV79T8": false,
+            "01H8ZYW02VE9K68FEC158YP7C6": true,
+            "01H8ZYW02V2YE571QTM3C92X5R": true
+          }
+        },
+        {
+          "pattern": {
+            "01H8ZYW02V50VG55424NXGQW17": true,
+            "01H8ZYW02VTZXEF9CVAHYV79T8": true,
+            "01H8ZYW02VE9K68FEC158YP7C6": false,
+            "01H8ZYW02V2YE571QTM3C92X5R": false
+          }
+        },
+        {
+          "pattern": {
+            "01H8ZYW02V50VG55424NXGQW17": true,
+            "01H8ZYW02VTZXEF9CVAHYV79T8": true,
+            "01H8ZYW02VE9K68FEC158YP7C6": false,
+            "01H8ZYW02V2YE571QTM3C92X5R": true
+          }
+        },
+        {
+          "pattern": {
+            "01H8ZYW02V50VG55424NXGQW17": true,
+            "01H8ZYW02VTZXEF9CVAHYV79T8": true,
+            "01H8ZYW02VE9K68FEC158YP7C6": true,
+            "01H8ZYW02V2YE571QTM3C92X5R": false
+          }
+        },
+        {
+          "pattern": {
+            "01H8ZYW02V50VG55424NXGQW17": true,
+            "01H8ZYW02VTZXEF9CVAHYV79T8": true,
+            "01H8ZYW02VE9K68FEC158YP7C6": true,
+            "01H8ZYW02V2YE571QTM3C92X5R": true
+          }
+        }
+      ]
+    },
+    {
+      "questionId": "01H8ZZDZVQ7KSCTPBJC0J73PQ0",
+      "scoreTable": [
+        {
+          "pattern": {
+            "01H8ZZDZVQCWF2QXWMSQSBF2WX": false,
+            "01H8ZZDZVQBEW68S6QPX789YM5": false,
+            "01H8ZZDZVQMVK63QJWHWKA0NS9": false,
+            "01H8ZZDZVQNHPAVSEYY9EAG4GK": false
+          }
+        },
+        {
+          "pattern": {
+            "01H8ZZDZVQCWF2QXWMSQSBF2WX": false,
+            "01H8ZZDZVQBEW68S6QPX789YM5": false,
+            "01H8ZZDZVQMVK63QJWHWKA0NS9": false,
+            "01H8ZZDZVQNHPAVSEYY9EAG4GK": true
+          }
+        },
+        {
+          "pattern": {
+            "01H8ZZDZVQCWF2QXWMSQSBF2WX": false,
+            "01H8ZZDZVQBEW68S6QPX789YM5": false,
+            "01H8ZZDZVQMVK63QJWHWKA0NS9": true,
+            "01H8ZZDZVQNHPAVSEYY9EAG4GK": false
+          }
+        },
+        {
+          "pattern": {
+            "01H8ZZDZVQCWF2QXWMSQSBF2WX": false,
+            "01H8ZZDZVQBEW68S6QPX789YM5": false,
+            "01H8ZZDZVQMVK63QJWHWKA0NS9": true,
+            "01H8ZZDZVQNHPAVSEYY9EAG4GK": true
+          }
+        },
+        {
+          "pattern": {
+            "01H8ZZDZVQCWF2QXWMSQSBF2WX": false,
+            "01H8ZZDZVQBEW68S6QPX789YM5": true,
+            "01H8ZZDZVQMVK63QJWHWKA0NS9": false,
+            "01H8ZZDZVQNHPAVSEYY9EAG4GK": false
+          }
+        },
+        {
+          "pattern": {
+            "01H8ZZDZVQCWF2QXWMSQSBF2WX": false,
+            "01H8ZZDZVQBEW68S6QPX789YM5": true,
+            "01H8ZZDZVQMVK63QJWHWKA0NS9": false,
+            "01H8ZZDZVQNHPAVSEYY9EAG4GK": true
+          }
+        },
+        {
+          "pattern": {
+            "01H8ZZDZVQCWF2QXWMSQSBF2WX": false,
+            "01H8ZZDZVQBEW68S6QPX789YM5": true,
+            "01H8ZZDZVQMVK63QJWHWKA0NS9": true,
+            "01H8ZZDZVQNHPAVSEYY9EAG4GK": false
+          }
+        },
+        {
+          "pattern": {
+            "01H8ZZDZVQCWF2QXWMSQSBF2WX": false,
+            "01H8ZZDZVQBEW68S6QPX789YM5": true,
+            "01H8ZZDZVQMVK63QJWHWKA0NS9": true,
+            "01H8ZZDZVQNHPAVSEYY9EAG4GK": true
+          }
+        },
+        {
+          "pattern": {
+            "01H8ZZDZVQCWF2QXWMSQSBF2WX": true,
+            "01H8ZZDZVQBEW68S6QPX789YM5": false,
+            "01H8ZZDZVQMVK63QJWHWKA0NS9": false,
+            "01H8ZZDZVQNHPAVSEYY9EAG4GK": false
+          }
+        },
+        {
+          "pattern": {
+            "01H8ZZDZVQCWF2QXWMSQSBF2WX": true,
+            "01H8ZZDZVQBEW68S6QPX789YM5": false,
+            "01H8ZZDZVQMVK63QJWHWKA0NS9": false,
+            "01H8ZZDZVQNHPAVSEYY9EAG4GK": true
+          }
+        },
+        {
+          "pattern": {
+            "01H8ZZDZVQCWF2QXWMSQSBF2WX": true,
+            "01H8ZZDZVQBEW68S6QPX789YM5": false,
+            "01H8ZZDZVQMVK63QJWHWKA0NS9": true,
+            "01H8ZZDZVQNHPAVSEYY9EAG4GK": false
+          }
+        },
+        {
+          "pattern": {
+            "01H8ZZDZVQCWF2QXWMSQSBF2WX": true,
+            "01H8ZZDZVQBEW68S6QPX789YM5": false,
+            "01H8ZZDZVQMVK63QJWHWKA0NS9": true,
+            "01H8ZZDZVQNHPAVSEYY9EAG4GK": true
+          }
+        },
+        {
+          "pattern": {
+            "01H8ZZDZVQCWF2QXWMSQSBF2WX": true,
+            "01H8ZZDZVQBEW68S6QPX789YM5": true,
+            "01H8ZZDZVQMVK63QJWHWKA0NS9": false,
+            "01H8ZZDZVQNHPAVSEYY9EAG4GK": false
+          }
+        },
+        {
+          "pattern": {
+            "01H8ZZDZVQCWF2QXWMSQSBF2WX": true,
+            "01H8ZZDZVQBEW68S6QPX789YM5": true,
+            "01H8ZZDZVQMVK63QJWHWKA0NS9": false,
+            "01H8ZZDZVQNHPAVSEYY9EAG4GK": true
+          }
+        },
+        {
+          "pattern": {
+            "01H8ZZDZVQCWF2QXWMSQSBF2WX": true,
+            "01H8ZZDZVQBEW68S6QPX789YM5": true,
+            "01H8ZZDZVQMVK63QJWHWKA0NS9": true,
+            "01H8ZZDZVQNHPAVSEYY9EAG4GK": false
+          }
+        },
+        {
+          "pattern": {
+            "01H8ZZDZVQCWF2QXWMSQSBF2WX": true,
+            "01H8ZZDZVQBEW68S6QPX789YM5": true,
+            "01H8ZZDZVQMVK63QJWHWKA0NS9": true,
+            "01H8ZZDZVQNHPAVSEYY9EAG4GK": true
+          }
+        }
+      ]
+    },
+    {
+      "questionId": "01H8ZZF90ZZS1C6XNV455HTN8F",
+      "scoreTable": [
+        {
+          "pattern": {
+            "01H8ZZF90ZGZ9RXP7584PHGM8Z": false,
+            "01H8ZZF90Z0JXBZBFRR92P1E8F": false,
+            "01H8ZZF90ZT4JKTH341R3E8Y9K": false,
+            "01H8ZZF90Z81164ZY0NRJKCZ5Z": false
+          }
+        },
+        {
+          "pattern": {
+            "01H8ZZF90ZGZ9RXP7584PHGM8Z": false,
+            "01H8ZZF90Z0JXBZBFRR92P1E8F": false,
+            "01H8ZZF90ZT4JKTH341R3E8Y9K": false,
+            "01H8ZZF90Z81164ZY0NRJKCZ5Z": true
+          }
+        },
+        {
+          "pattern": {
+            "01H8ZZF90ZGZ9RXP7584PHGM8Z": false,
+            "01H8ZZF90Z0JXBZBFRR92P1E8F": false,
+            "01H8ZZF90ZT4JKTH341R3E8Y9K": true,
+            "01H8ZZF90Z81164ZY0NRJKCZ5Z": false
+          }
+        },
+        {
+          "pattern": {
+            "01H8ZZF90ZGZ9RXP7584PHGM8Z": false,
+            "01H8ZZF90Z0JXBZBFRR92P1E8F": false,
+            "01H8ZZF90ZT4JKTH341R3E8Y9K": true,
+            "01H8ZZF90Z81164ZY0NRJKCZ5Z": true
+          }
+        },
+        {
+          "pattern": {
+            "01H8ZZF90ZGZ9RXP7584PHGM8Z": false,
+            "01H8ZZF90Z0JXBZBFRR92P1E8F": true,
+            "01H8ZZF90ZT4JKTH341R3E8Y9K": false,
+            "01H8ZZF90Z81164ZY0NRJKCZ5Z": false
+          }
+        },
+        {
+          "pattern": {
+            "01H8ZZF90ZGZ9RXP7584PHGM8Z": false,
+            "01H8ZZF90Z0JXBZBFRR92P1E8F": true,
+            "01H8ZZF90ZT4JKTH341R3E8Y9K": false,
+            "01H8ZZF90Z81164ZY0NRJKCZ5Z": true
+          }
+        },
+        {
+          "pattern": {
+            "01H8ZZF90ZGZ9RXP7584PHGM8Z": false,
+            "01H8ZZF90Z0JXBZBFRR92P1E8F": true,
+            "01H8ZZF90ZT4JKTH341R3E8Y9K": true,
+            "01H8ZZF90Z81164ZY0NRJKCZ5Z": false
+          }
+        },
+        {
+          "pattern": {
+            "01H8ZZF90ZGZ9RXP7584PHGM8Z": false,
+            "01H8ZZF90Z0JXBZBFRR92P1E8F": true,
+            "01H8ZZF90ZT4JKTH341R3E8Y9K": true,
+            "01H8ZZF90Z81164ZY0NRJKCZ5Z": true
+          }
+        },
+        {
+          "pattern": {
+            "01H8ZZF90ZGZ9RXP7584PHGM8Z": true,
+            "01H8ZZF90Z0JXBZBFRR92P1E8F": false,
+            "01H8ZZF90ZT4JKTH341R3E8Y9K": false,
+            "01H8ZZF90Z81164ZY0NRJKCZ5Z": false
+          }
+        },
+        {
+          "pattern": {
+            "01H8ZZF90ZGZ9RXP7584PHGM8Z": true,
+            "01H8ZZF90Z0JXBZBFRR92P1E8F": false,
+            "01H8ZZF90ZT4JKTH341R3E8Y9K": false,
+            "01H8ZZF90Z81164ZY0NRJKCZ5Z": true
+          }
+        },
+        {
+          "pattern": {
+            "01H8ZZF90ZGZ9RXP7584PHGM8Z": true,
+            "01H8ZZF90Z0JXBZBFRR92P1E8F": false,
+            "01H8ZZF90ZT4JKTH341R3E8Y9K": true,
+            "01H8ZZF90Z81164ZY0NRJKCZ5Z": false
+          }
+        },
+        {
+          "pattern": {
+            "01H8ZZF90ZGZ9RXP7584PHGM8Z": true,
+            "01H8ZZF90Z0JXBZBFRR92P1E8F": false,
+            "01H8ZZF90ZT4JKTH341R3E8Y9K": true,
+            "01H8ZZF90Z81164ZY0NRJKCZ5Z": true
+          }
+        },
+        {
+          "pattern": {
+            "01H8ZZF90ZGZ9RXP7584PHGM8Z": true,
+            "01H8ZZF90Z0JXBZBFRR92P1E8F": true,
+            "01H8ZZF90ZT4JKTH341R3E8Y9K": false,
+            "01H8ZZF90Z81164ZY0NRJKCZ5Z": false
+          }
+        },
+        {
+          "pattern": {
+            "01H8ZZF90ZGZ9RXP7584PHGM8Z": true,
+            "01H8ZZF90Z0JXBZBFRR92P1E8F": true,
+            "01H8ZZF90ZT4JKTH341R3E8Y9K": false,
+            "01H8ZZF90Z81164ZY0NRJKCZ5Z": true
+          }
+        },
+        {
+          "pattern": {
+            "01H8ZZF90ZGZ9RXP7584PHGM8Z": true,
+            "01H8ZZF90Z0JXBZBFRR92P1E8F": true,
+            "01H8ZZF90ZT4JKTH341R3E8Y9K": true,
+            "01H8ZZF90Z81164ZY0NRJKCZ5Z": false
+          }
+        },
+        {
+          "pattern": {
+            "01H8ZZF90ZGZ9RXP7584PHGM8Z": true,
+            "01H8ZZF90Z0JXBZBFRR92P1E8F": true,
+            "01H8ZZF90ZT4JKTH341R3E8Y9K": true,
+            "01H8ZZF90Z81164ZY0NRJKCZ5Z": true
+          }
+        }
+      ]
+    },
+    {
+      "questionId": "01H8ZZGWYY6QP97QC9GQR4ZFQ2",
+      "scoreTable": [
+        {
+          "pattern": {
+            "01H8ZZGWYYPWW0RYC9AQRRWPMV": false,
+            "01H8ZZGWYY15FFJP26J4FZX9QB": false,
+            "01H8ZZGWYY05PF43NEPR4ZJSAV": false,
+            "01H8ZZGWYYPAGWP594AFRKMP45": false
+          }
+        },
+        {
+          "pattern": {
+            "01H8ZZGWYYPWW0RYC9AQRRWPMV": false,
+            "01H8ZZGWYY15FFJP26J4FZX9QB": false,
+            "01H8ZZGWYY05PF43NEPR4ZJSAV": false,
+            "01H8ZZGWYYPAGWP594AFRKMP45": true
+          }
+        },
+        {
+          "pattern": {
+            "01H8ZZGWYYPWW0RYC9AQRRWPMV": false,
+            "01H8ZZGWYY15FFJP26J4FZX9QB": false,
+            "01H8ZZGWYY05PF43NEPR4ZJSAV": true,
+            "01H8ZZGWYYPAGWP594AFRKMP45": false
+          }
+        },
+        {
+          "pattern": {
+            "01H8ZZGWYYPWW0RYC9AQRRWPMV": false,
+            "01H8ZZGWYY15FFJP26J4FZX9QB": false,
+            "01H8ZZGWYY05PF43NEPR4ZJSAV": true,
+            "01H8ZZGWYYPAGWP594AFRKMP45": true
+          }
+        },
+        {
+          "pattern": {
+            "01H8ZZGWYYPWW0RYC9AQRRWPMV": false,
+            "01H8ZZGWYY15FFJP26J4FZX9QB": true,
+            "01H8ZZGWYY05PF43NEPR4ZJSAV": false,
+            "01H8ZZGWYYPAGWP594AFRKMP45": false
+          }
+        },
+        {
+          "pattern": {
+            "01H8ZZGWYYPWW0RYC9AQRRWPMV": false,
+            "01H8ZZGWYY15FFJP26J4FZX9QB": true,
+            "01H8ZZGWYY05PF43NEPR4ZJSAV": false,
+            "01H8ZZGWYYPAGWP594AFRKMP45": true
+          }
+        },
+        {
+          "pattern": {
+            "01H8ZZGWYYPWW0RYC9AQRRWPMV": false,
+            "01H8ZZGWYY15FFJP26J4FZX9QB": true,
+            "01H8ZZGWYY05PF43NEPR4ZJSAV": true,
+            "01H8ZZGWYYPAGWP594AFRKMP45": false
+          }
+        },
+        {
+          "pattern": {
+            "01H8ZZGWYYPWW0RYC9AQRRWPMV": false,
+            "01H8ZZGWYY15FFJP26J4FZX9QB": true,
+            "01H8ZZGWYY05PF43NEPR4ZJSAV": true,
+            "01H8ZZGWYYPAGWP594AFRKMP45": true
+          }
+        },
+        {
+          "pattern": {
+            "01H8ZZGWYYPWW0RYC9AQRRWPMV": true,
+            "01H8ZZGWYY15FFJP26J4FZX9QB": false,
+            "01H8ZZGWYY05PF43NEPR4ZJSAV": false,
+            "01H8ZZGWYYPAGWP594AFRKMP45": false
+          }
+        },
+        {
+          "pattern": {
+            "01H8ZZGWYYPWW0RYC9AQRRWPMV": true,
+            "01H8ZZGWYY15FFJP26J4FZX9QB": false,
+            "01H8ZZGWYY05PF43NEPR4ZJSAV": false,
+            "01H8ZZGWYYPAGWP594AFRKMP45": true
+          }
+        },
+        {
+          "pattern": {
+            "01H8ZZGWYYPWW0RYC9AQRRWPMV": true,
+            "01H8ZZGWYY15FFJP26J4FZX9QB": false,
+            "01H8ZZGWYY05PF43NEPR4ZJSAV": true,
+            "01H8ZZGWYYPAGWP594AFRKMP45": false
+          }
+        },
+        {
+          "pattern": {
+            "01H8ZZGWYYPWW0RYC9AQRRWPMV": true,
+            "01H8ZZGWYY15FFJP26J4FZX9QB": false,
+            "01H8ZZGWYY05PF43NEPR4ZJSAV": true,
+            "01H8ZZGWYYPAGWP594AFRKMP45": true
+          }
+        },
+        {
+          "pattern": {
+            "01H8ZZGWYYPWW0RYC9AQRRWPMV": true,
+            "01H8ZZGWYY15FFJP26J4FZX9QB": true,
+            "01H8ZZGWYY05PF43NEPR4ZJSAV": false,
+            "01H8ZZGWYYPAGWP594AFRKMP45": false
+          }
+        },
+        {
+          "pattern": {
+            "01H8ZZGWYYPWW0RYC9AQRRWPMV": true,
+            "01H8ZZGWYY15FFJP26J4FZX9QB": true,
+            "01H8ZZGWYY05PF43NEPR4ZJSAV": false,
+            "01H8ZZGWYYPAGWP594AFRKMP45": true
+          }
+        },
+        {
+          "pattern": {
+            "01H8ZZGWYYPWW0RYC9AQRRWPMV": true,
+            "01H8ZZGWYY15FFJP26J4FZX9QB": true,
+            "01H8ZZGWYY05PF43NEPR4ZJSAV": true,
+            "01H8ZZGWYYPAGWP594AFRKMP45": false
+          }
+        },
+        {
+          "pattern": {
+            "01H8ZZGWYYPWW0RYC9AQRRWPMV": true,
+            "01H8ZZGWYY15FFJP26J4FZX9QB": true,
+            "01H8ZZGWYY05PF43NEPR4ZJSAV": true,
+            "01H8ZZGWYYPAGWP594AFRKMP45": true
+          }
+        }
+      ]
+    },
+    {
+      "questionId": "01H8ZZM608CNKQ65N9J5BBXMHZ",
+      "scoreTable": [
+        {
+          "pattern": {
+            "01H8ZZM608ME49EEC7J6EG4N77": false,
+            "01H8ZZM608R63HDKNA15YHSDP3": false,
+            "01H8ZZM608FTKEZFKDZG16XVDY": false,
+            "01H8ZZM608M692F4ZRN6AT06CQ": false
+          }
+        },
+        {
+          "pattern": {
+            "01H8ZZM608ME49EEC7J6EG4N77": false,
+            "01H8ZZM608R63HDKNA15YHSDP3": false,
+            "01H8ZZM608FTKEZFKDZG16XVDY": false,
+            "01H8ZZM608M692F4ZRN6AT06CQ": true
+          }
+        },
+        {
+          "pattern": {
+            "01H8ZZM608ME49EEC7J6EG4N77": false,
+            "01H8ZZM608R63HDKNA15YHSDP3": false,
+            "01H8ZZM608FTKEZFKDZG16XVDY": true,
+            "01H8ZZM608M692F4ZRN6AT06CQ": false
+          }
+        },
+        {
+          "pattern": {
+            "01H8ZZM608ME49EEC7J6EG4N77": false,
+            "01H8ZZM608R63HDKNA15YHSDP3": false,
+            "01H8ZZM608FTKEZFKDZG16XVDY": true,
+            "01H8ZZM608M692F4ZRN6AT06CQ": true
+          }
+        },
+        {
+          "pattern": {
+            "01H8ZZM608ME49EEC7J6EG4N77": false,
+            "01H8ZZM608R63HDKNA15YHSDP3": true,
+            "01H8ZZM608FTKEZFKDZG16XVDY": false,
+            "01H8ZZM608M692F4ZRN6AT06CQ": false
+          }
+        },
+        {
+          "pattern": {
+            "01H8ZZM608ME49EEC7J6EG4N77": false,
+            "01H8ZZM608R63HDKNA15YHSDP3": true,
+            "01H8ZZM608FTKEZFKDZG16XVDY": false,
+            "01H8ZZM608M692F4ZRN6AT06CQ": true
+          }
+        },
+        {
+          "pattern": {
+            "01H8ZZM608ME49EEC7J6EG4N77": false,
+            "01H8ZZM608R63HDKNA15YHSDP3": true,
+            "01H8ZZM608FTKEZFKDZG16XVDY": true,
+            "01H8ZZM608M692F4ZRN6AT06CQ": false
+          }
+        },
+        {
+          "pattern": {
+            "01H8ZZM608ME49EEC7J6EG4N77": false,
+            "01H8ZZM608R63HDKNA15YHSDP3": true,
+            "01H8ZZM608FTKEZFKDZG16XVDY": true,
+            "01H8ZZM608M692F4ZRN6AT06CQ": true
+          }
+        },
+        {
+          "pattern": {
+            "01H8ZZM608ME49EEC7J6EG4N77": true,
+            "01H8ZZM608R63HDKNA15YHSDP3": false,
+            "01H8ZZM608FTKEZFKDZG16XVDY": false,
+            "01H8ZZM608M692F4ZRN6AT06CQ": false
+          }
+        },
+        {
+          "pattern": {
+            "01H8ZZM608ME49EEC7J6EG4N77": true,
+            "01H8ZZM608R63HDKNA15YHSDP3": false,
+            "01H8ZZM608FTKEZFKDZG16XVDY": false,
+            "01H8ZZM608M692F4ZRN6AT06CQ": true
+          }
+        },
+        {
+          "pattern": {
+            "01H8ZZM608ME49EEC7J6EG4N77": true,
+            "01H8ZZM608R63HDKNA15YHSDP3": false,
+            "01H8ZZM608FTKEZFKDZG16XVDY": true,
+            "01H8ZZM608M692F4ZRN6AT06CQ": false
+          }
+        },
+        {
+          "pattern": {
+            "01H8ZZM608ME49EEC7J6EG4N77": true,
+            "01H8ZZM608R63HDKNA15YHSDP3": false,
+            "01H8ZZM608FTKEZFKDZG16XVDY": true,
+            "01H8ZZM608M692F4ZRN6AT06CQ": true
+          }
+        },
+        {
+          "pattern": {
+            "01H8ZZM608ME49EEC7J6EG4N77": true,
+            "01H8ZZM608R63HDKNA15YHSDP3": true,
+            "01H8ZZM608FTKEZFKDZG16XVDY": false,
+            "01H8ZZM608M692F4ZRN6AT06CQ": false
+          }
+        },
+        {
+          "pattern": {
+            "01H8ZZM608ME49EEC7J6EG4N77": true,
+            "01H8ZZM608R63HDKNA15YHSDP3": true,
+            "01H8ZZM608FTKEZFKDZG16XVDY": false,
+            "01H8ZZM608M692F4ZRN6AT06CQ": true
+          }
+        },
+        {
+          "pattern": {
+            "01H8ZZM608ME49EEC7J6EG4N77": true,
+            "01H8ZZM608R63HDKNA15YHSDP3": true,
+            "01H8ZZM608FTKEZFKDZG16XVDY": true,
+            "01H8ZZM608M692F4ZRN6AT06CQ": false
+          }
+        },
+        {
+          "pattern": {
+            "01H8ZZM608ME49EEC7J6EG4N77": true,
+            "01H8ZZM608R63HDKNA15YHSDP3": true,
+            "01H8ZZM608FTKEZFKDZG16XVDY": true,
+            "01H8ZZM608M692F4ZRN6AT06CQ": true
+          }
+        }
+      ]
+    },
+    {
+      "questionId": "01H8ZZMP4GVPCVFJHDE460DKCJ",
+      "scoreTable": [
+        {
+          "pattern": {
+            "01H8ZZMP4GJ29N4PFRT92HK433": false,
+            "01H8ZZMP4G3S9E2NABKDPCPPP9": false,
+            "01H8ZZMP4G1YYDMTG01G5EH8KF": false,
+            "01H8ZZMP4GHQC9GTQXFFHBXGQE": false
+          }
+        },
+        {
+          "pattern": {
+            "01H8ZZMP4GJ29N4PFRT92HK433": false,
+            "01H8ZZMP4G3S9E2NABKDPCPPP9": false,
+            "01H8ZZMP4G1YYDMTG01G5EH8KF": false,
+            "01H8ZZMP4GHQC9GTQXFFHBXGQE": true
+          }
+        },
+        {
+          "pattern": {
+            "01H8ZZMP4GJ29N4PFRT92HK433": false,
+            "01H8ZZMP4G3S9E2NABKDPCPPP9": false,
+            "01H8ZZMP4G1YYDMTG01G5EH8KF": true,
+            "01H8ZZMP4GHQC9GTQXFFHBXGQE": false
+          }
+        },
+        {
+          "pattern": {
+            "01H8ZZMP4GJ29N4PFRT92HK433": false,
+            "01H8ZZMP4G3S9E2NABKDPCPPP9": false,
+            "01H8ZZMP4G1YYDMTG01G5EH8KF": true,
+            "01H8ZZMP4GHQC9GTQXFFHBXGQE": true
+          }
+        },
+        {
+          "pattern": {
+            "01H8ZZMP4GJ29N4PFRT92HK433": false,
+            "01H8ZZMP4G3S9E2NABKDPCPPP9": true,
+            "01H8ZZMP4G1YYDMTG01G5EH8KF": false,
+            "01H8ZZMP4GHQC9GTQXFFHBXGQE": false
+          }
+        },
+        {
+          "pattern": {
+            "01H8ZZMP4GJ29N4PFRT92HK433": false,
+            "01H8ZZMP4G3S9E2NABKDPCPPP9": true,
+            "01H8ZZMP4G1YYDMTG01G5EH8KF": false,
+            "01H8ZZMP4GHQC9GTQXFFHBXGQE": true
+          }
+        },
+        {
+          "pattern": {
+            "01H8ZZMP4GJ29N4PFRT92HK433": false,
+            "01H8ZZMP4G3S9E2NABKDPCPPP9": true,
+            "01H8ZZMP4G1YYDMTG01G5EH8KF": true,
+            "01H8ZZMP4GHQC9GTQXFFHBXGQE": false
+          }
+        },
+        {
+          "pattern": {
+            "01H8ZZMP4GJ29N4PFRT92HK433": false,
+            "01H8ZZMP4G3S9E2NABKDPCPPP9": true,
+            "01H8ZZMP4G1YYDMTG01G5EH8KF": true,
+            "01H8ZZMP4GHQC9GTQXFFHBXGQE": true
+          }
+        },
+        {
+          "pattern": {
+            "01H8ZZMP4GJ29N4PFRT92HK433": true,
+            "01H8ZZMP4G3S9E2NABKDPCPPP9": false,
+            "01H8ZZMP4G1YYDMTG01G5EH8KF": false,
+            "01H8ZZMP4GHQC9GTQXFFHBXGQE": false
+          }
+        },
+        {
+          "pattern": {
+            "01H8ZZMP4GJ29N4PFRT92HK433": true,
+            "01H8ZZMP4G3S9E2NABKDPCPPP9": false,
+            "01H8ZZMP4G1YYDMTG01G5EH8KF": false,
+            "01H8ZZMP4GHQC9GTQXFFHBXGQE": true
+          }
+        },
+        {
+          "pattern": {
+            "01H8ZZMP4GJ29N4PFRT92HK433": true,
+            "01H8ZZMP4G3S9E2NABKDPCPPP9": false,
+            "01H8ZZMP4G1YYDMTG01G5EH8KF": true,
+            "01H8ZZMP4GHQC9GTQXFFHBXGQE": false
+          }
+        },
+        {
+          "pattern": {
+            "01H8ZZMP4GJ29N4PFRT92HK433": true,
+            "01H8ZZMP4G3S9E2NABKDPCPPP9": false,
+            "01H8ZZMP4G1YYDMTG01G5EH8KF": true,
+            "01H8ZZMP4GHQC9GTQXFFHBXGQE": true
+          }
+        },
+        {
+          "pattern": {
+            "01H8ZZMP4GJ29N4PFRT92HK433": true,
+            "01H8ZZMP4G3S9E2NABKDPCPPP9": true,
+            "01H8ZZMP4G1YYDMTG01G5EH8KF": false,
+            "01H8ZZMP4GHQC9GTQXFFHBXGQE": false
+          }
+        },
+        {
+          "pattern": {
+            "01H8ZZMP4GJ29N4PFRT92HK433": true,
+            "01H8ZZMP4G3S9E2NABKDPCPPP9": true,
+            "01H8ZZMP4G1YYDMTG01G5EH8KF": false,
+            "01H8ZZMP4GHQC9GTQXFFHBXGQE": true
+          }
+        },
+        {
+          "pattern": {
+            "01H8ZZMP4GJ29N4PFRT92HK433": true,
+            "01H8ZZMP4G3S9E2NABKDPCPPP9": true,
+            "01H8ZZMP4G1YYDMTG01G5EH8KF": true,
+            "01H8ZZMP4GHQC9GTQXFFHBXGQE": false
+          }
+        },
+        {
+          "pattern": {
+            "01H8ZZMP4GJ29N4PFRT92HK433": true,
+            "01H8ZZMP4G3S9E2NABKDPCPPP9": true,
+            "01H8ZZMP4G1YYDMTG01G5EH8KF": true,
+            "01H8ZZMP4GHQC9GTQXFFHBXGQE": true
+          }
+        }
+      ]
+    },
+    {
+      "questionId": "01H8ZZN8M8FSWASA9K8SQ3J4YD",
+      "scoreTable": [
+        {
+          "pattern": {
+            "01H8ZZN8M8WV756VDE4RBXB0Z5": false,
+            "01H8ZZN8M8Z5BXT58XYE5AWBPP": false,
+            "01H8ZZN8M8ARV2RFGFAW6Q2KTX": false,
+            "01H8ZZN8M8NTP61WXKRBKFD916": false
+          }
+        },
+        {
+          "pattern": {
+            "01H8ZZN8M8WV756VDE4RBXB0Z5": false,
+            "01H8ZZN8M8Z5BXT58XYE5AWBPP": false,
+            "01H8ZZN8M8ARV2RFGFAW6Q2KTX": false,
+            "01H8ZZN8M8NTP61WXKRBKFD916": true
+          }
+        },
+        {
+          "pattern": {
+            "01H8ZZN8M8WV756VDE4RBXB0Z5": false,
+            "01H8ZZN8M8Z5BXT58XYE5AWBPP": false,
+            "01H8ZZN8M8ARV2RFGFAW6Q2KTX": true,
+            "01H8ZZN8M8NTP61WXKRBKFD916": false
+          }
+        },
+        {
+          "pattern": {
+            "01H8ZZN8M8WV756VDE4RBXB0Z5": false,
+            "01H8ZZN8M8Z5BXT58XYE5AWBPP": false,
+            "01H8ZZN8M8ARV2RFGFAW6Q2KTX": true,
+            "01H8ZZN8M8NTP61WXKRBKFD916": true
+          }
+        },
+        {
+          "pattern": {
+            "01H8ZZN8M8WV756VDE4RBXB0Z5": false,
+            "01H8ZZN8M8Z5BXT58XYE5AWBPP": true,
+            "01H8ZZN8M8ARV2RFGFAW6Q2KTX": false,
+            "01H8ZZN8M8NTP61WXKRBKFD916": false
+          }
+        },
+        {
+          "pattern": {
+            "01H8ZZN8M8WV756VDE4RBXB0Z5": false,
+            "01H8ZZN8M8Z5BXT58XYE5AWBPP": true,
+            "01H8ZZN8M8ARV2RFGFAW6Q2KTX": false,
+            "01H8ZZN8M8NTP61WXKRBKFD916": true
+          }
+        },
+        {
+          "pattern": {
+            "01H8ZZN8M8WV756VDE4RBXB0Z5": false,
+            "01H8ZZN8M8Z5BXT58XYE5AWBPP": true,
+            "01H8ZZN8M8ARV2RFGFAW6Q2KTX": true,
+            "01H8ZZN8M8NTP61WXKRBKFD916": false
+          }
+        },
+        {
+          "pattern": {
+            "01H8ZZN8M8WV756VDE4RBXB0Z5": false,
+            "01H8ZZN8M8Z5BXT58XYE5AWBPP": true,
+            "01H8ZZN8M8ARV2RFGFAW6Q2KTX": true,
+            "01H8ZZN8M8NTP61WXKRBKFD916": true
+          }
+        },
+        {
+          "pattern": {
+            "01H8ZZN8M8WV756VDE4RBXB0Z5": true,
+            "01H8ZZN8M8Z5BXT58XYE5AWBPP": false,
+            "01H8ZZN8M8ARV2RFGFAW6Q2KTX": false,
+            "01H8ZZN8M8NTP61WXKRBKFD916": false
+          }
+        },
+        {
+          "pattern": {
+            "01H8ZZN8M8WV756VDE4RBXB0Z5": true,
+            "01H8ZZN8M8Z5BXT58XYE5AWBPP": false,
+            "01H8ZZN8M8ARV2RFGFAW6Q2KTX": false,
+            "01H8ZZN8M8NTP61WXKRBKFD916": true
+          }
+        },
+        {
+          "pattern": {
+            "01H8ZZN8M8WV756VDE4RBXB0Z5": true,
+            "01H8ZZN8M8Z5BXT58XYE5AWBPP": false,
+            "01H8ZZN8M8ARV2RFGFAW6Q2KTX": true,
+            "01H8ZZN8M8NTP61WXKRBKFD916": false
+          }
+        },
+        {
+          "pattern": {
+            "01H8ZZN8M8WV756VDE4RBXB0Z5": true,
+            "01H8ZZN8M8Z5BXT58XYE5AWBPP": false,
+            "01H8ZZN8M8ARV2RFGFAW6Q2KTX": true,
+            "01H8ZZN8M8NTP61WXKRBKFD916": true
+          }
+        },
+        {
+          "pattern": {
+            "01H8ZZN8M8WV756VDE4RBXB0Z5": true,
+            "01H8ZZN8M8Z5BXT58XYE5AWBPP": true,
+            "01H8ZZN8M8ARV2RFGFAW6Q2KTX": false,
+            "01H8ZZN8M8NTP61WXKRBKFD916": false
+          }
+        },
+        {
+          "pattern": {
+            "01H8ZZN8M8WV756VDE4RBXB0Z5": true,
+            "01H8ZZN8M8Z5BXT58XYE5AWBPP": true,
+            "01H8ZZN8M8ARV2RFGFAW6Q2KTX": false,
+            "01H8ZZN8M8NTP61WXKRBKFD916": true
+          }
+        },
+        {
+          "pattern": {
+            "01H8ZZN8M8WV756VDE4RBXB0Z5": true,
+            "01H8ZZN8M8Z5BXT58XYE5AWBPP": true,
+            "01H8ZZN8M8ARV2RFGFAW6Q2KTX": true,
+            "01H8ZZN8M8NTP61WXKRBKFD916": false
+          }
+        },
+        {
+          "pattern": {
+            "01H8ZZN8M8WV756VDE4RBXB0Z5": true,
+            "01H8ZZN8M8Z5BXT58XYE5AWBPP": true,
+            "01H8ZZN8M8ARV2RFGFAW6Q2KTX": true,
+            "01H8ZZN8M8NTP61WXKRBKFD916": true
+          }
+        }
+      ]
+    },
+    {
+      "questionId": "01H8ZZNCKRVFZGD2TVVBCEY2V1",
+      "scoreTable": [
+        {
+          "pattern": {
+            "01H8ZZNCKRX2CQEPPDTQGDTS3J": false,
+            "01H8ZZNCKRXF6TH1EBGTQJZRW1": false,
+            "01H8ZZNCKR3C7BN6GY0WWYEV3P": false,
+            "01H8ZZNCKR5835JVP7AQD09PC8": false
+          }
+        },
+        {
+          "pattern": {
+            "01H8ZZNCKRX2CQEPPDTQGDTS3J": false,
+            "01H8ZZNCKRXF6TH1EBGTQJZRW1": false,
+            "01H8ZZNCKR3C7BN6GY0WWYEV3P": false,
+            "01H8ZZNCKR5835JVP7AQD09PC8": true
+          }
+        },
+        {
+          "pattern": {
+            "01H8ZZNCKRX2CQEPPDTQGDTS3J": false,
+            "01H8ZZNCKRXF6TH1EBGTQJZRW1": false,
+            "01H8ZZNCKR3C7BN6GY0WWYEV3P": true,
+            "01H8ZZNCKR5835JVP7AQD09PC8": false
+          }
+        },
+        {
+          "pattern": {
+            "01H8ZZNCKRX2CQEPPDTQGDTS3J": false,
+            "01H8ZZNCKRXF6TH1EBGTQJZRW1": false,
+            "01H8ZZNCKR3C7BN6GY0WWYEV3P": true,
+            "01H8ZZNCKR5835JVP7AQD09PC8": true
+          }
+        },
+        {
+          "pattern": {
+            "01H8ZZNCKRX2CQEPPDTQGDTS3J": false,
+            "01H8ZZNCKRXF6TH1EBGTQJZRW1": true,
+            "01H8ZZNCKR3C7BN6GY0WWYEV3P": false,
+            "01H8ZZNCKR5835JVP7AQD09PC8": false
+          }
+        },
+        {
+          "pattern": {
+            "01H8ZZNCKRX2CQEPPDTQGDTS3J": false,
+            "01H8ZZNCKRXF6TH1EBGTQJZRW1": true,
+            "01H8ZZNCKR3C7BN6GY0WWYEV3P": false,
+            "01H8ZZNCKR5835JVP7AQD09PC8": true
+          }
+        },
+        {
+          "pattern": {
+            "01H8ZZNCKRX2CQEPPDTQGDTS3J": false,
+            "01H8ZZNCKRXF6TH1EBGTQJZRW1": true,
+            "01H8ZZNCKR3C7BN6GY0WWYEV3P": true,
+            "01H8ZZNCKR5835JVP7AQD09PC8": false
+          }
+        },
+        {
+          "pattern": {
+            "01H8ZZNCKRX2CQEPPDTQGDTS3J": false,
+            "01H8ZZNCKRXF6TH1EBGTQJZRW1": true,
+            "01H8ZZNCKR3C7BN6GY0WWYEV3P": true,
+            "01H8ZZNCKR5835JVP7AQD09PC8": true
+          }
+        },
+        {
+          "pattern": {
+            "01H8ZZNCKRX2CQEPPDTQGDTS3J": true,
+            "01H8ZZNCKRXF6TH1EBGTQJZRW1": false,
+            "01H8ZZNCKR3C7BN6GY0WWYEV3P": false,
+            "01H8ZZNCKR5835JVP7AQD09PC8": false
+          }
+        },
+        {
+          "pattern": {
+            "01H8ZZNCKRX2CQEPPDTQGDTS3J": true,
+            "01H8ZZNCKRXF6TH1EBGTQJZRW1": false,
+            "01H8ZZNCKR3C7BN6GY0WWYEV3P": false,
+            "01H8ZZNCKR5835JVP7AQD09PC8": true
+          }
+        },
+        {
+          "pattern": {
+            "01H8ZZNCKRX2CQEPPDTQGDTS3J": true,
+            "01H8ZZNCKRXF6TH1EBGTQJZRW1": false,
+            "01H8ZZNCKR3C7BN6GY0WWYEV3P": true,
+            "01H8ZZNCKR5835JVP7AQD09PC8": false
+          }
+        },
+        {
+          "pattern": {
+            "01H8ZZNCKRX2CQEPPDTQGDTS3J": true,
+            "01H8ZZNCKRXF6TH1EBGTQJZRW1": false,
+            "01H8ZZNCKR3C7BN6GY0WWYEV3P": true,
+            "01H8ZZNCKR5835JVP7AQD09PC8": true
+          }
+        },
+        {
+          "pattern": {
+            "01H8ZZNCKRX2CQEPPDTQGDTS3J": true,
+            "01H8ZZNCKRXF6TH1EBGTQJZRW1": true,
+            "01H8ZZNCKR3C7BN6GY0WWYEV3P": false,
+            "01H8ZZNCKR5835JVP7AQD09PC8": false
+          }
+        },
+        {
+          "pattern": {
+            "01H8ZZNCKRX2CQEPPDTQGDTS3J": true,
+            "01H8ZZNCKRXF6TH1EBGTQJZRW1": true,
+            "01H8ZZNCKR3C7BN6GY0WWYEV3P": false,
+            "01H8ZZNCKR5835JVP7AQD09PC8": true
+          }
+        },
+        {
+          "pattern": {
+            "01H8ZZNCKRX2CQEPPDTQGDTS3J": true,
+            "01H8ZZNCKRXF6TH1EBGTQJZRW1": true,
+            "01H8ZZNCKR3C7BN6GY0WWYEV3P": true,
+            "01H8ZZNCKR5835JVP7AQD09PC8": false
+          }
+        },
+        {
+          "pattern": {
+            "01H8ZZNCKRX2CQEPPDTQGDTS3J": true,
+            "01H8ZZNCKRXF6TH1EBGTQJZRW1": true,
+            "01H8ZZNCKR3C7BN6GY0WWYEV3P": true,
+            "01H8ZZNCKR5835JVP7AQD09PC8": true
+          }
+        }
+      ]
+    },
+    {
+      "questionId": "01H90073F73J3PJH6HZWTVAHXF",
+      "scoreTable": [
+        {
+          "pattern": {
+            "01H90073F7R4KXVVYDNT2CSG79": false,
+            "01H90073F7SR902E9CTSZ9BZ9G": false,
+            "01H90073F7E2KMC6R3F19FCTK5": false,
+            "01H90073F73SFJD3AE6B41HEY7": false
+          }
+        },
+        {
+          "pattern": {
+            "01H90073F7R4KXVVYDNT2CSG79": false,
+            "01H90073F7SR902E9CTSZ9BZ9G": false,
+            "01H90073F7E2KMC6R3F19FCTK5": false,
+            "01H90073F73SFJD3AE6B41HEY7": true
+          }
+        },
+        {
+          "pattern": {
+            "01H90073F7R4KXVVYDNT2CSG79": false,
+            "01H90073F7SR902E9CTSZ9BZ9G": false,
+            "01H90073F7E2KMC6R3F19FCTK5": true,
+            "01H90073F73SFJD3AE6B41HEY7": false
+          }
+        },
+        {
+          "pattern": {
+            "01H90073F7R4KXVVYDNT2CSG79": false,
+            "01H90073F7SR902E9CTSZ9BZ9G": false,
+            "01H90073F7E2KMC6R3F19FCTK5": true,
+            "01H90073F73SFJD3AE6B41HEY7": true
+          }
+        },
+        {
+          "pattern": {
+            "01H90073F7R4KXVVYDNT2CSG79": false,
+            "01H90073F7SR902E9CTSZ9BZ9G": true,
+            "01H90073F7E2KMC6R3F19FCTK5": false,
+            "01H90073F73SFJD3AE6B41HEY7": false
+          }
+        },
+        {
+          "pattern": {
+            "01H90073F7R4KXVVYDNT2CSG79": false,
+            "01H90073F7SR902E9CTSZ9BZ9G": true,
+            "01H90073F7E2KMC6R3F19FCTK5": false,
+            "01H90073F73SFJD3AE6B41HEY7": true
+          }
+        },
+        {
+          "pattern": {
+            "01H90073F7R4KXVVYDNT2CSG79": false,
+            "01H90073F7SR902E9CTSZ9BZ9G": true,
+            "01H90073F7E2KMC6R3F19FCTK5": true,
+            "01H90073F73SFJD3AE6B41HEY7": false
+          }
+        },
+        {
+          "pattern": {
+            "01H90073F7R4KXVVYDNT2CSG79": false,
+            "01H90073F7SR902E9CTSZ9BZ9G": true,
+            "01H90073F7E2KMC6R3F19FCTK5": true,
+            "01H90073F73SFJD3AE6B41HEY7": true
+          }
+        },
+        {
+          "pattern": {
+            "01H90073F7R4KXVVYDNT2CSG79": true,
+            "01H90073F7SR902E9CTSZ9BZ9G": false,
+            "01H90073F7E2KMC6R3F19FCTK5": false,
+            "01H90073F73SFJD3AE6B41HEY7": false
+          }
+        },
+        {
+          "pattern": {
+            "01H90073F7R4KXVVYDNT2CSG79": true,
+            "01H90073F7SR902E9CTSZ9BZ9G": false,
+            "01H90073F7E2KMC6R3F19FCTK5": false,
+            "01H90073F73SFJD3AE6B41HEY7": true
+          }
+        },
+        {
+          "pattern": {
+            "01H90073F7R4KXVVYDNT2CSG79": true,
+            "01H90073F7SR902E9CTSZ9BZ9G": false,
+            "01H90073F7E2KMC6R3F19FCTK5": true,
+            "01H90073F73SFJD3AE6B41HEY7": false
+          }
+        },
+        {
+          "pattern": {
+            "01H90073F7R4KXVVYDNT2CSG79": true,
+            "01H90073F7SR902E9CTSZ9BZ9G": false,
+            "01H90073F7E2KMC6R3F19FCTK5": true,
+            "01H90073F73SFJD3AE6B41HEY7": true
+          }
+        },
+        {
+          "pattern": {
+            "01H90073F7R4KXVVYDNT2CSG79": true,
+            "01H90073F7SR902E9CTSZ9BZ9G": true,
+            "01H90073F7E2KMC6R3F19FCTK5": false,
+            "01H90073F73SFJD3AE6B41HEY7": false
+          }
+        },
+        {
+          "pattern": {
+            "01H90073F7R4KXVVYDNT2CSG79": true,
+            "01H90073F7SR902E9CTSZ9BZ9G": true,
+            "01H90073F7E2KMC6R3F19FCTK5": false,
+            "01H90073F73SFJD3AE6B41HEY7": true
+          }
+        },
+        {
+          "pattern": {
+            "01H90073F7R4KXVVYDNT2CSG79": true,
+            "01H90073F7SR902E9CTSZ9BZ9G": true,
+            "01H90073F7E2KMC6R3F19FCTK5": true,
+            "01H90073F73SFJD3AE6B41HEY7": false
+          }
+        },
+        {
+          "pattern": {
+            "01H90073F7R4KXVVYDNT2CSG79": true,
+            "01H90073F7SR902E9CTSZ9BZ9G": true,
+            "01H90073F7E2KMC6R3F19FCTK5": true,
+            "01H90073F73SFJD3AE6B41HEY7": true
+          }
+        }
+      ]
+    },
+    {
+      "questionId": "01H900PN5NZBM0BP5KRYCERJEC",
+      "scoreTable": [
+        {
+          "pattern": {
+            "01H900PN5NARGPNSJ2YEGZJPZY": false,
+            "01H900PN5NJHNY418PD9AT7KJW": false,
+            "01H900PN5NVCDY76S60TC777EB": false,
+            "01H900PN5N5TB4JZ6QFECB8CMW": false
+          }
+        },
+        {
+          "pattern": {
+            "01H900PN5NARGPNSJ2YEGZJPZY": false,
+            "01H900PN5NJHNY418PD9AT7KJW": false,
+            "01H900PN5NVCDY76S60TC777EB": false,
+            "01H900PN5N5TB4JZ6QFECB8CMW": true
+          }
+        },
+        {
+          "pattern": {
+            "01H900PN5NARGPNSJ2YEGZJPZY": false,
+            "01H900PN5NJHNY418PD9AT7KJW": false,
+            "01H900PN5NVCDY76S60TC777EB": true,
+            "01H900PN5N5TB4JZ6QFECB8CMW": false
+          }
+        },
+        {
+          "pattern": {
+            "01H900PN5NARGPNSJ2YEGZJPZY": false,
+            "01H900PN5NJHNY418PD9AT7KJW": false,
+            "01H900PN5NVCDY76S60TC777EB": true,
+            "01H900PN5N5TB4JZ6QFECB8CMW": true
+          }
+        },
+        {
+          "pattern": {
+            "01H900PN5NARGPNSJ2YEGZJPZY": false,
+            "01H900PN5NJHNY418PD9AT7KJW": true,
+            "01H900PN5NVCDY76S60TC777EB": false,
+            "01H900PN5N5TB4JZ6QFECB8CMW": false
+          }
+        },
+        {
+          "pattern": {
+            "01H900PN5NARGPNSJ2YEGZJPZY": false,
+            "01H900PN5NJHNY418PD9AT7KJW": true,
+            "01H900PN5NVCDY76S60TC777EB": false,
+            "01H900PN5N5TB4JZ6QFECB8CMW": true
+          }
+        },
+        {
+          "pattern": {
+            "01H900PN5NARGPNSJ2YEGZJPZY": false,
+            "01H900PN5NJHNY418PD9AT7KJW": true,
+            "01H900PN5NVCDY76S60TC777EB": true,
+            "01H900PN5N5TB4JZ6QFECB8CMW": false
+          }
+        },
+        {
+          "pattern": {
+            "01H900PN5NARGPNSJ2YEGZJPZY": false,
+            "01H900PN5NJHNY418PD9AT7KJW": true,
+            "01H900PN5NVCDY76S60TC777EB": true,
+            "01H900PN5N5TB4JZ6QFECB8CMW": true
+          }
+        },
+        {
+          "pattern": {
+            "01H900PN5NARGPNSJ2YEGZJPZY": true,
+            "01H900PN5NJHNY418PD9AT7KJW": false,
+            "01H900PN5NVCDY76S60TC777EB": false,
+            "01H900PN5N5TB4JZ6QFECB8CMW": false
+          }
+        },
+        {
+          "pattern": {
+            "01H900PN5NARGPNSJ2YEGZJPZY": true,
+            "01H900PN5NJHNY418PD9AT7KJW": false,
+            "01H900PN5NVCDY76S60TC777EB": false,
+            "01H900PN5N5TB4JZ6QFECB8CMW": true
+          }
+        },
+        {
+          "pattern": {
+            "01H900PN5NARGPNSJ2YEGZJPZY": true,
+            "01H900PN5NJHNY418PD9AT7KJW": false,
+            "01H900PN5NVCDY76S60TC777EB": true,
+            "01H900PN5N5TB4JZ6QFECB8CMW": false
+          }
+        },
+        {
+          "pattern": {
+            "01H900PN5NARGPNSJ2YEGZJPZY": true,
+            "01H900PN5NJHNY418PD9AT7KJW": false,
+            "01H900PN5NVCDY76S60TC777EB": true,
+            "01H900PN5N5TB4JZ6QFECB8CMW": true
+          }
+        },
+        {
+          "pattern": {
+            "01H900PN5NARGPNSJ2YEGZJPZY": true,
+            "01H900PN5NJHNY418PD9AT7KJW": true,
+            "01H900PN5NVCDY76S60TC777EB": false,
+            "01H900PN5N5TB4JZ6QFECB8CMW": false
+          }
+        },
+        {
+          "pattern": {
+            "01H900PN5NARGPNSJ2YEGZJPZY": true,
+            "01H900PN5NJHNY418PD9AT7KJW": true,
+            "01H900PN5NVCDY76S60TC777EB": false,
+            "01H900PN5N5TB4JZ6QFECB8CMW": true
+          }
+        },
+        {
+          "pattern": {
+            "01H900PN5NARGPNSJ2YEGZJPZY": true,
+            "01H900PN5NJHNY418PD9AT7KJW": true,
+            "01H900PN5NVCDY76S60TC777EB": true,
+            "01H900PN5N5TB4JZ6QFECB8CMW": false
+          }
+        },
+        {
+          "pattern": {
+            "01H900PN5NARGPNSJ2YEGZJPZY": true,
+            "01H900PN5NJHNY418PD9AT7KJW": true,
+            "01H900PN5NVCDY76S60TC777EB": true,
+            "01H900PN5N5TB4JZ6QFECB8CMW": true
+          }
+        }
+      ]
+    },
+    {
+      "questionId": "01H900QH0E7KRTM016QH4YBQVV",
+      "scoreTable": [
+        {
+          "pattern": {
+            "01H900QH0ECFDR9DCJ2M5ZD5VB": false,
+            "01H900QH0E038VVYK3W66HFWWY": false,
+            "01H900QH0EKQAZYSQB5YBBZ6JJ": false,
+            "01H900QH0EESSWXJABCKZTWSX8": false
+          }
+        },
+        {
+          "pattern": {
+            "01H900QH0ECFDR9DCJ2M5ZD5VB": false,
+            "01H900QH0E038VVYK3W66HFWWY": false,
+            "01H900QH0EKQAZYSQB5YBBZ6JJ": false,
+            "01H900QH0EESSWXJABCKZTWSX8": true
+          }
+        },
+        {
+          "pattern": {
+            "01H900QH0ECFDR9DCJ2M5ZD5VB": false,
+            "01H900QH0E038VVYK3W66HFWWY": false,
+            "01H900QH0EKQAZYSQB5YBBZ6JJ": true,
+            "01H900QH0EESSWXJABCKZTWSX8": false
+          }
+        },
+        {
+          "pattern": {
+            "01H900QH0ECFDR9DCJ2M5ZD5VB": false,
+            "01H900QH0E038VVYK3W66HFWWY": false,
+            "01H900QH0EKQAZYSQB5YBBZ6JJ": true,
+            "01H900QH0EESSWXJABCKZTWSX8": true
+          }
+        },
+        {
+          "pattern": {
+            "01H900QH0ECFDR9DCJ2M5ZD5VB": false,
+            "01H900QH0E038VVYK3W66HFWWY": true,
+            "01H900QH0EKQAZYSQB5YBBZ6JJ": false,
+            "01H900QH0EESSWXJABCKZTWSX8": false
+          }
+        },
+        {
+          "pattern": {
+            "01H900QH0ECFDR9DCJ2M5ZD5VB": false,
+            "01H900QH0E038VVYK3W66HFWWY": true,
+            "01H900QH0EKQAZYSQB5YBBZ6JJ": false,
+            "01H900QH0EESSWXJABCKZTWSX8": true
+          }
+        },
+        {
+          "pattern": {
+            "01H900QH0ECFDR9DCJ2M5ZD5VB": false,
+            "01H900QH0E038VVYK3W66HFWWY": true,
+            "01H900QH0EKQAZYSQB5YBBZ6JJ": true,
+            "01H900QH0EESSWXJABCKZTWSX8": false
+          }
+        },
+        {
+          "pattern": {
+            "01H900QH0ECFDR9DCJ2M5ZD5VB": false,
+            "01H900QH0E038VVYK3W66HFWWY": true,
+            "01H900QH0EKQAZYSQB5YBBZ6JJ": true,
+            "01H900QH0EESSWXJABCKZTWSX8": true
+          }
+        },
+        {
+          "pattern": {
+            "01H900QH0ECFDR9DCJ2M5ZD5VB": true,
+            "01H900QH0E038VVYK3W66HFWWY": false,
+            "01H900QH0EKQAZYSQB5YBBZ6JJ": false,
+            "01H900QH0EESSWXJABCKZTWSX8": false
+          }
+        },
+        {
+          "pattern": {
+            "01H900QH0ECFDR9DCJ2M5ZD5VB": true,
+            "01H900QH0E038VVYK3W66HFWWY": false,
+            "01H900QH0EKQAZYSQB5YBBZ6JJ": false,
+            "01H900QH0EESSWXJABCKZTWSX8": true
+          }
+        },
+        {
+          "pattern": {
+            "01H900QH0ECFDR9DCJ2M5ZD5VB": true,
+            "01H900QH0E038VVYK3W66HFWWY": false,
+            "01H900QH0EKQAZYSQB5YBBZ6JJ": true,
+            "01H900QH0EESSWXJABCKZTWSX8": false
+          }
+        },
+        {
+          "pattern": {
+            "01H900QH0ECFDR9DCJ2M5ZD5VB": true,
+            "01H900QH0E038VVYK3W66HFWWY": false,
+            "01H900QH0EKQAZYSQB5YBBZ6JJ": true,
+            "01H900QH0EESSWXJABCKZTWSX8": true
+          }
+        },
+        {
+          "pattern": {
+            "01H900QH0ECFDR9DCJ2M5ZD5VB": true,
+            "01H900QH0E038VVYK3W66HFWWY": true,
+            "01H900QH0EKQAZYSQB5YBBZ6JJ": false,
+            "01H900QH0EESSWXJABCKZTWSX8": false
+          }
+        },
+        {
+          "pattern": {
+            "01H900QH0ECFDR9DCJ2M5ZD5VB": true,
+            "01H900QH0E038VVYK3W66HFWWY": true,
+            "01H900QH0EKQAZYSQB5YBBZ6JJ": false,
+            "01H900QH0EESSWXJABCKZTWSX8": true
+          }
+        },
+        {
+          "pattern": {
+            "01H900QH0ECFDR9DCJ2M5ZD5VB": true,
+            "01H900QH0E038VVYK3W66HFWWY": true,
+            "01H900QH0EKQAZYSQB5YBBZ6JJ": true,
+            "01H900QH0EESSWXJABCKZTWSX8": false
+          }
+        },
+        {
+          "pattern": {
+            "01H900QH0ECFDR9DCJ2M5ZD5VB": true,
+            "01H900QH0E038VVYK3W66HFWWY": true,
+            "01H900QH0EKQAZYSQB5YBBZ6JJ": true,
+            "01H900QH0EESSWXJABCKZTWSX8": true
+          }
+        }
+      ]
+    },
+    {
+      "questionId": "01H900R8SP1TR50ETERQT6HDQQ",
+      "scoreTable": [
+        {
+          "pattern": {
+            "01H900R8SP8YJRVB0RKEJFZQCX": false,
+            "01H900R8SPE5A8AXTD8XBY2DH0": false,
+            "01H900R8SPFXCDD9C4QY15SAB2": false,
+            "01H900R8SPDM69R4KSDF7GCJ00": false
+          }
+        },
+        {
+          "pattern": {
+            "01H900R8SP8YJRVB0RKEJFZQCX": false,
+            "01H900R8SPE5A8AXTD8XBY2DH0": false,
+            "01H900R8SPFXCDD9C4QY15SAB2": false,
+            "01H900R8SPDM69R4KSDF7GCJ00": true
+          }
+        },
+        {
+          "pattern": {
+            "01H900R8SP8YJRVB0RKEJFZQCX": false,
+            "01H900R8SPE5A8AXTD8XBY2DH0": false,
+            "01H900R8SPFXCDD9C4QY15SAB2": true,
+            "01H900R8SPDM69R4KSDF7GCJ00": false
+          }
+        },
+        {
+          "pattern": {
+            "01H900R8SP8YJRVB0RKEJFZQCX": false,
+            "01H900R8SPE5A8AXTD8XBY2DH0": false,
+            "01H900R8SPFXCDD9C4QY15SAB2": true,
+            "01H900R8SPDM69R4KSDF7GCJ00": true
+          }
+        },
+        {
+          "pattern": {
+            "01H900R8SP8YJRVB0RKEJFZQCX": false,
+            "01H900R8SPE5A8AXTD8XBY2DH0": true,
+            "01H900R8SPFXCDD9C4QY15SAB2": false,
+            "01H900R8SPDM69R4KSDF7GCJ00": false
+          }
+        },
+        {
+          "pattern": {
+            "01H900R8SP8YJRVB0RKEJFZQCX": false,
+            "01H900R8SPE5A8AXTD8XBY2DH0": true,
+            "01H900R8SPFXCDD9C4QY15SAB2": false,
+            "01H900R8SPDM69R4KSDF7GCJ00": true
+          }
+        },
+        {
+          "pattern": {
+            "01H900R8SP8YJRVB0RKEJFZQCX": false,
+            "01H900R8SPE5A8AXTD8XBY2DH0": true,
+            "01H900R8SPFXCDD9C4QY15SAB2": true,
+            "01H900R8SPDM69R4KSDF7GCJ00": false
+          }
+        },
+        {
+          "pattern": {
+            "01H900R8SP8YJRVB0RKEJFZQCX": false,
+            "01H900R8SPE5A8AXTD8XBY2DH0": true,
+            "01H900R8SPFXCDD9C4QY15SAB2": true,
+            "01H900R8SPDM69R4KSDF7GCJ00": true
+          }
+        },
+        {
+          "pattern": {
+            "01H900R8SP8YJRVB0RKEJFZQCX": true,
+            "01H900R8SPE5A8AXTD8XBY2DH0": false,
+            "01H900R8SPFXCDD9C4QY15SAB2": false,
+            "01H900R8SPDM69R4KSDF7GCJ00": false
+          }
+        },
+        {
+          "pattern": {
+            "01H900R8SP8YJRVB0RKEJFZQCX": true,
+            "01H900R8SPE5A8AXTD8XBY2DH0": false,
+            "01H900R8SPFXCDD9C4QY15SAB2": false,
+            "01H900R8SPDM69R4KSDF7GCJ00": true
+          }
+        },
+        {
+          "pattern": {
+            "01H900R8SP8YJRVB0RKEJFZQCX": true,
+            "01H900R8SPE5A8AXTD8XBY2DH0": false,
+            "01H900R8SPFXCDD9C4QY15SAB2": true,
+            "01H900R8SPDM69R4KSDF7GCJ00": false
+          }
+        },
+        {
+          "pattern": {
+            "01H900R8SP8YJRVB0RKEJFZQCX": true,
+            "01H900R8SPE5A8AXTD8XBY2DH0": false,
+            "01H900R8SPFXCDD9C4QY15SAB2": true,
+            "01H900R8SPDM69R4KSDF7GCJ00": true
+          }
+        },
+        {
+          "pattern": {
+            "01H900R8SP8YJRVB0RKEJFZQCX": true,
+            "01H900R8SPE5A8AXTD8XBY2DH0": true,
+            "01H900R8SPFXCDD9C4QY15SAB2": false,
+            "01H900R8SPDM69R4KSDF7GCJ00": false
+          }
+        },
+        {
+          "pattern": {
+            "01H900R8SP8YJRVB0RKEJFZQCX": true,
+            "01H900R8SPE5A8AXTD8XBY2DH0": true,
+            "01H900R8SPFXCDD9C4QY15SAB2": false,
+            "01H900R8SPDM69R4KSDF7GCJ00": true
+          }
+        },
+        {
+          "pattern": {
+            "01H900R8SP8YJRVB0RKEJFZQCX": true,
+            "01H900R8SPE5A8AXTD8XBY2DH0": true,
+            "01H900R8SPFXCDD9C4QY15SAB2": true,
+            "01H900R8SPDM69R4KSDF7GCJ00": false
+          }
+        },
+        {
+          "pattern": {
+            "01H900R8SP8YJRVB0RKEJFZQCX": true,
+            "01H900R8SPE5A8AXTD8XBY2DH0": true,
+            "01H900R8SPFXCDD9C4QY15SAB2": true,
+            "01H900R8SPDM69R4KSDF7GCJ00": true
+          }
+        }
+      ]
+    },
+    {
+      "questionId": "01H900XXPDDG5HFPRQ632XWPT8",
+      "scoreTable": [
+        {
+          "pattern": {
+            "01H900XXPD7ZA0MVGF9Z8KY30B": false,
+            "01H900XXPDEC3K7TCFKFDHABX5": false,
+            "01H900XXPD4WSRKK6TSSP2QKJ6": false,
+            "01H900XXPDEP2PD51C69ADBK6Z": false
+          }
+        },
+        {
+          "pattern": {
+            "01H900XXPD7ZA0MVGF9Z8KY30B": false,
+            "01H900XXPDEC3K7TCFKFDHABX5": false,
+            "01H900XXPD4WSRKK6TSSP2QKJ6": false,
+            "01H900XXPDEP2PD51C69ADBK6Z": true
+          }
+        },
+        {
+          "pattern": {
+            "01H900XXPD7ZA0MVGF9Z8KY30B": false,
+            "01H900XXPDEC3K7TCFKFDHABX5": false,
+            "01H900XXPD4WSRKK6TSSP2QKJ6": true,
+            "01H900XXPDEP2PD51C69ADBK6Z": false
+          }
+        },
+        {
+          "pattern": {
+            "01H900XXPD7ZA0MVGF9Z8KY30B": false,
+            "01H900XXPDEC3K7TCFKFDHABX5": false,
+            "01H900XXPD4WSRKK6TSSP2QKJ6": true,
+            "01H900XXPDEP2PD51C69ADBK6Z": true
+          }
+        },
+        {
+          "pattern": {
+            "01H900XXPD7ZA0MVGF9Z8KY30B": false,
+            "01H900XXPDEC3K7TCFKFDHABX5": true,
+            "01H900XXPD4WSRKK6TSSP2QKJ6": false,
+            "01H900XXPDEP2PD51C69ADBK6Z": false
+          }
+        },
+        {
+          "pattern": {
+            "01H900XXPD7ZA0MVGF9Z8KY30B": false,
+            "01H900XXPDEC3K7TCFKFDHABX5": true,
+            "01H900XXPD4WSRKK6TSSP2QKJ6": false,
+            "01H900XXPDEP2PD51C69ADBK6Z": true
+          }
+        },
+        {
+          "pattern": {
+            "01H900XXPD7ZA0MVGF9Z8KY30B": false,
+            "01H900XXPDEC3K7TCFKFDHABX5": true,
+            "01H900XXPD4WSRKK6TSSP2QKJ6": true,
+            "01H900XXPDEP2PD51C69ADBK6Z": false
+          }
+        },
+        {
+          "pattern": {
+            "01H900XXPD7ZA0MVGF9Z8KY30B": false,
+            "01H900XXPDEC3K7TCFKFDHABX5": true,
+            "01H900XXPD4WSRKK6TSSP2QKJ6": true,
+            "01H900XXPDEP2PD51C69ADBK6Z": true
+          }
+        },
+        {
+          "pattern": {
+            "01H900XXPD7ZA0MVGF9Z8KY30B": true,
+            "01H900XXPDEC3K7TCFKFDHABX5": false,
+            "01H900XXPD4WSRKK6TSSP2QKJ6": false,
+            "01H900XXPDEP2PD51C69ADBK6Z": false
+          }
+        },
+        {
+          "pattern": {
+            "01H900XXPD7ZA0MVGF9Z8KY30B": true,
+            "01H900XXPDEC3K7TCFKFDHABX5": false,
+            "01H900XXPD4WSRKK6TSSP2QKJ6": false,
+            "01H900XXPDEP2PD51C69ADBK6Z": true
+          }
+        },
+        {
+          "pattern": {
+            "01H900XXPD7ZA0MVGF9Z8KY30B": true,
+            "01H900XXPDEC3K7TCFKFDHABX5": false,
+            "01H900XXPD4WSRKK6TSSP2QKJ6": true,
+            "01H900XXPDEP2PD51C69ADBK6Z": false
+          }
+        },
+        {
+          "pattern": {
+            "01H900XXPD7ZA0MVGF9Z8KY30B": true,
+            "01H900XXPDEC3K7TCFKFDHABX5": false,
+            "01H900XXPD4WSRKK6TSSP2QKJ6": true,
+            "01H900XXPDEP2PD51C69ADBK6Z": true
+          }
+        },
+        {
+          "pattern": {
+            "01H900XXPD7ZA0MVGF9Z8KY30B": true,
+            "01H900XXPDEC3K7TCFKFDHABX5": true,
+            "01H900XXPD4WSRKK6TSSP2QKJ6": false,
+            "01H900XXPDEP2PD51C69ADBK6Z": false
+          }
+        },
+        {
+          "pattern": {
+            "01H900XXPD7ZA0MVGF9Z8KY30B": true,
+            "01H900XXPDEC3K7TCFKFDHABX5": true,
+            "01H900XXPD4WSRKK6TSSP2QKJ6": false,
+            "01H900XXPDEP2PD51C69ADBK6Z": true
+          }
+        },
+        {
+          "pattern": {
+            "01H900XXPD7ZA0MVGF9Z8KY30B": true,
+            "01H900XXPDEC3K7TCFKFDHABX5": true,
+            "01H900XXPD4WSRKK6TSSP2QKJ6": true,
+            "01H900XXPDEP2PD51C69ADBK6Z": false
+          }
+        },
+        {
+          "pattern": {
+            "01H900XXPD7ZA0MVGF9Z8KY30B": true,
+            "01H900XXPDEC3K7TCFKFDHABX5": true,
+            "01H900XXPD4WSRKK6TSSP2QKJ6": true,
+            "01H900XXPDEP2PD51C69ADBK6Z": true
+          }
+        }
+      ]
+    },
+    {
+      "questionId": "01H900Z6CXB2MHR0KV29VSCZCP",
+      "scoreTable": [
+        {
+          "pattern": {
+            "01H900Z6CXHVN14PPGXZEFTDFQ": false,
+            "01H900Z6CXW4A3EQGNF2CCF1JE": false,
+            "01H900Z6CX2WH4RY6PPA6XTMF2": false,
+            "01H900Z6CXJME2VQBG9WTZ6P50": false
+          }
+        },
+        {
+          "pattern": {
+            "01H900Z6CXHVN14PPGXZEFTDFQ": false,
+            "01H900Z6CXW4A3EQGNF2CCF1JE": false,
+            "01H900Z6CX2WH4RY6PPA6XTMF2": false,
+            "01H900Z6CXJME2VQBG9WTZ6P50": true
+          }
+        },
+        {
+          "pattern": {
+            "01H900Z6CXHVN14PPGXZEFTDFQ": false,
+            "01H900Z6CXW4A3EQGNF2CCF1JE": false,
+            "01H900Z6CX2WH4RY6PPA6XTMF2": true,
+            "01H900Z6CXJME2VQBG9WTZ6P50": false
+          }
+        },
+        {
+          "pattern": {
+            "01H900Z6CXHVN14PPGXZEFTDFQ": false,
+            "01H900Z6CXW4A3EQGNF2CCF1JE": false,
+            "01H900Z6CX2WH4RY6PPA6XTMF2": true,
+            "01H900Z6CXJME2VQBG9WTZ6P50": true
+          }
+        },
+        {
+          "pattern": {
+            "01H900Z6CXHVN14PPGXZEFTDFQ": false,
+            "01H900Z6CXW4A3EQGNF2CCF1JE": true,
+            "01H900Z6CX2WH4RY6PPA6XTMF2": false,
+            "01H900Z6CXJME2VQBG9WTZ6P50": false
+          }
+        },
+        {
+          "pattern": {
+            "01H900Z6CXHVN14PPGXZEFTDFQ": false,
+            "01H900Z6CXW4A3EQGNF2CCF1JE": true,
+            "01H900Z6CX2WH4RY6PPA6XTMF2": false,
+            "01H900Z6CXJME2VQBG9WTZ6P50": true
+          }
+        },
+        {
+          "pattern": {
+            "01H900Z6CXHVN14PPGXZEFTDFQ": false,
+            "01H900Z6CXW4A3EQGNF2CCF1JE": true,
+            "01H900Z6CX2WH4RY6PPA6XTMF2": true,
+            "01H900Z6CXJME2VQBG9WTZ6P50": false
+          }
+        },
+        {
+          "pattern": {
+            "01H900Z6CXHVN14PPGXZEFTDFQ": false,
+            "01H900Z6CXW4A3EQGNF2CCF1JE": true,
+            "01H900Z6CX2WH4RY6PPA6XTMF2": true,
+            "01H900Z6CXJME2VQBG9WTZ6P50": true
+          }
+        },
+        {
+          "pattern": {
+            "01H900Z6CXHVN14PPGXZEFTDFQ": true,
+            "01H900Z6CXW4A3EQGNF2CCF1JE": false,
+            "01H900Z6CX2WH4RY6PPA6XTMF2": false,
+            "01H900Z6CXJME2VQBG9WTZ6P50": false
+          }
+        },
+        {
+          "pattern": {
+            "01H900Z6CXHVN14PPGXZEFTDFQ": true,
+            "01H900Z6CXW4A3EQGNF2CCF1JE": false,
+            "01H900Z6CX2WH4RY6PPA6XTMF2": false,
+            "01H900Z6CXJME2VQBG9WTZ6P50": true
+          }
+        },
+        {
+          "pattern": {
+            "01H900Z6CXHVN14PPGXZEFTDFQ": true,
+            "01H900Z6CXW4A3EQGNF2CCF1JE": false,
+            "01H900Z6CX2WH4RY6PPA6XTMF2": true,
+            "01H900Z6CXJME2VQBG9WTZ6P50": false
+          }
+        },
+        {
+          "pattern": {
+            "01H900Z6CXHVN14PPGXZEFTDFQ": true,
+            "01H900Z6CXW4A3EQGNF2CCF1JE": false,
+            "01H900Z6CX2WH4RY6PPA6XTMF2": true,
+            "01H900Z6CXJME2VQBG9WTZ6P50": true
+          }
+        },
+        {
+          "pattern": {
+            "01H900Z6CXHVN14PPGXZEFTDFQ": true,
+            "01H900Z6CXW4A3EQGNF2CCF1JE": true,
+            "01H900Z6CX2WH4RY6PPA6XTMF2": false,
+            "01H900Z6CXJME2VQBG9WTZ6P50": false
+          }
+        },
+        {
+          "pattern": {
+            "01H900Z6CXHVN14PPGXZEFTDFQ": true,
+            "01H900Z6CXW4A3EQGNF2CCF1JE": true,
+            "01H900Z6CX2WH4RY6PPA6XTMF2": false,
+            "01H900Z6CXJME2VQBG9WTZ6P50": true
+          }
+        },
+        {
+          "pattern": {
+            "01H900Z6CXHVN14PPGXZEFTDFQ": true,
+            "01H900Z6CXW4A3EQGNF2CCF1JE": true,
+            "01H900Z6CX2WH4RY6PPA6XTMF2": true,
+            "01H900Z6CXJME2VQBG9WTZ6P50": false
+          }
+        },
+        {
+          "pattern": {
+            "01H900Z6CXHVN14PPGXZEFTDFQ": true,
+            "01H900Z6CXW4A3EQGNF2CCF1JE": true,
+            "01H900Z6CX2WH4RY6PPA6XTMF2": true,
+            "01H900Z6CXJME2VQBG9WTZ6P50": true
+          }
+        }
+      ]
+    },
+    {
+      "questionId": "01H90104ZD8XRC69H91YC9SGY1",
+      "scoreTable": [
+        {
+          "pattern": {
+            "01H90104ZD8D77MFE90KDKVF51": false,
+            "01H90104ZD20ZAW1B8714X1FGA": false,
+            "01H90104ZDC3TGDADZE068V8W4": false,
+            "01H90104ZD5R58E3C2GMAQ26BW": false
+          }
+        },
+        {
+          "pattern": {
+            "01H90104ZD8D77MFE90KDKVF51": false,
+            "01H90104ZD20ZAW1B8714X1FGA": false,
+            "01H90104ZDC3TGDADZE068V8W4": false,
+            "01H90104ZD5R58E3C2GMAQ26BW": true
+          }
+        },
+        {
+          "pattern": {
+            "01H90104ZD8D77MFE90KDKVF51": false,
+            "01H90104ZD20ZAW1B8714X1FGA": false,
+            "01H90104ZDC3TGDADZE068V8W4": true,
+            "01H90104ZD5R58E3C2GMAQ26BW": false
+          }
+        },
+        {
+          "pattern": {
+            "01H90104ZD8D77MFE90KDKVF51": false,
+            "01H90104ZD20ZAW1B8714X1FGA": false,
+            "01H90104ZDC3TGDADZE068V8W4": true,
+            "01H90104ZD5R58E3C2GMAQ26BW": true
+          }
+        },
+        {
+          "pattern": {
+            "01H90104ZD8D77MFE90KDKVF51": false,
+            "01H90104ZD20ZAW1B8714X1FGA": true,
+            "01H90104ZDC3TGDADZE068V8W4": false,
+            "01H90104ZD5R58E3C2GMAQ26BW": false
+          }
+        },
+        {
+          "pattern": {
+            "01H90104ZD8D77MFE90KDKVF51": false,
+            "01H90104ZD20ZAW1B8714X1FGA": true,
+            "01H90104ZDC3TGDADZE068V8W4": false,
+            "01H90104ZD5R58E3C2GMAQ26BW": true
+          }
+        },
+        {
+          "pattern": {
+            "01H90104ZD8D77MFE90KDKVF51": false,
+            "01H90104ZD20ZAW1B8714X1FGA": true,
+            "01H90104ZDC3TGDADZE068V8W4": true,
+            "01H90104ZD5R58E3C2GMAQ26BW": false
+          }
+        },
+        {
+          "pattern": {
+            "01H90104ZD8D77MFE90KDKVF51": false,
+            "01H90104ZD20ZAW1B8714X1FGA": true,
+            "01H90104ZDC3TGDADZE068V8W4": true,
+            "01H90104ZD5R58E3C2GMAQ26BW": true
+          }
+        },
+        {
+          "pattern": {
+            "01H90104ZD8D77MFE90KDKVF51": true,
+            "01H90104ZD20ZAW1B8714X1FGA": false,
+            "01H90104ZDC3TGDADZE068V8W4": false,
+            "01H90104ZD5R58E3C2GMAQ26BW": false
+          }
+        },
+        {
+          "pattern": {
+            "01H90104ZD8D77MFE90KDKVF51": true,
+            "01H90104ZD20ZAW1B8714X1FGA": false,
+            "01H90104ZDC3TGDADZE068V8W4": false,
+            "01H90104ZD5R58E3C2GMAQ26BW": true
+          }
+        },
+        {
+          "pattern": {
+            "01H90104ZD8D77MFE90KDKVF51": true,
+            "01H90104ZD20ZAW1B8714X1FGA": false,
+            "01H90104ZDC3TGDADZE068V8W4": true,
+            "01H90104ZD5R58E3C2GMAQ26BW": false
+          }
+        },
+        {
+          "pattern": {
+            "01H90104ZD8D77MFE90KDKVF51": true,
+            "01H90104ZD20ZAW1B8714X1FGA": false,
+            "01H90104ZDC3TGDADZE068V8W4": true,
+            "01H90104ZD5R58E3C2GMAQ26BW": true
+          }
+        },
+        {
+          "pattern": {
+            "01H90104ZD8D77MFE90KDKVF51": true,
+            "01H90104ZD20ZAW1B8714X1FGA": true,
+            "01H90104ZDC3TGDADZE068V8W4": false,
+            "01H90104ZD5R58E3C2GMAQ26BW": false
+          }
+        },
+        {
+          "pattern": {
+            "01H90104ZD8D77MFE90KDKVF51": true,
+            "01H90104ZD20ZAW1B8714X1FGA": true,
+            "01H90104ZDC3TGDADZE068V8W4": false,
+            "01H90104ZD5R58E3C2GMAQ26BW": true
+          }
+        },
+        {
+          "pattern": {
+            "01H90104ZD8D77MFE90KDKVF51": true,
+            "01H90104ZD20ZAW1B8714X1FGA": true,
+            "01H90104ZDC3TGDADZE068V8W4": true,
+            "01H90104ZD5R58E3C2GMAQ26BW": false
+          }
+        },
+        {
+          "pattern": {
+            "01H90104ZD8D77MFE90KDKVF51": true,
+            "01H90104ZD20ZAW1B8714X1FGA": true,
+            "01H90104ZDC3TGDADZE068V8W4": true,
+            "01H90104ZD5R58E3C2GMAQ26BW": true
+          }
+        }
+      ]
+    },
+    {
+      "questionId": "01H9010YM7KZ6D2V6EZW2VJ3A9",
+      "scoreTable": [
+        {
+          "pattern": {
+            "01H9010YM7BG2FZK6TC9490523": false,
+            "01H9010YM78X5VV052VDNBX469": false,
+            "01H9010YM7QY2VX1TP6TM6YR9F": false,
+            "01H9010YM799SXMN1KTRE2M5KC": false
+          }
+        },
+        {
+          "pattern": {
+            "01H9010YM7BG2FZK6TC9490523": false,
+            "01H9010YM78X5VV052VDNBX469": false,
+            "01H9010YM7QY2VX1TP6TM6YR9F": false,
+            "01H9010YM799SXMN1KTRE2M5KC": true
+          }
+        },
+        {
+          "pattern": {
+            "01H9010YM7BG2FZK6TC9490523": false,
+            "01H9010YM78X5VV052VDNBX469": false,
+            "01H9010YM7QY2VX1TP6TM6YR9F": true,
+            "01H9010YM799SXMN1KTRE2M5KC": false
+          }
+        },
+        {
+          "pattern": {
+            "01H9010YM7BG2FZK6TC9490523": false,
+            "01H9010YM78X5VV052VDNBX469": false,
+            "01H9010YM7QY2VX1TP6TM6YR9F": true,
+            "01H9010YM799SXMN1KTRE2M5KC": true
+          }
+        },
+        {
+          "pattern": {
+            "01H9010YM7BG2FZK6TC9490523": false,
+            "01H9010YM78X5VV052VDNBX469": true,
+            "01H9010YM7QY2VX1TP6TM6YR9F": false,
+            "01H9010YM799SXMN1KTRE2M5KC": false
+          }
+        },
+        {
+          "pattern": {
+            "01H9010YM7BG2FZK6TC9490523": false,
+            "01H9010YM78X5VV052VDNBX469": true,
+            "01H9010YM7QY2VX1TP6TM6YR9F": false,
+            "01H9010YM799SXMN1KTRE2M5KC": true
+          }
+        },
+        {
+          "pattern": {
+            "01H9010YM7BG2FZK6TC9490523": false,
+            "01H9010YM78X5VV052VDNBX469": true,
+            "01H9010YM7QY2VX1TP6TM6YR9F": true,
+            "01H9010YM799SXMN1KTRE2M5KC": false
+          }
+        },
+        {
+          "pattern": {
+            "01H9010YM7BG2FZK6TC9490523": false,
+            "01H9010YM78X5VV052VDNBX469": true,
+            "01H9010YM7QY2VX1TP6TM6YR9F": true,
+            "01H9010YM799SXMN1KTRE2M5KC": true
+          }
+        },
+        {
+          "pattern": {
+            "01H9010YM7BG2FZK6TC9490523": true,
+            "01H9010YM78X5VV052VDNBX469": false,
+            "01H9010YM7QY2VX1TP6TM6YR9F": false,
+            "01H9010YM799SXMN1KTRE2M5KC": false
+          }
+        },
+        {
+          "pattern": {
+            "01H9010YM7BG2FZK6TC9490523": true,
+            "01H9010YM78X5VV052VDNBX469": false,
+            "01H9010YM7QY2VX1TP6TM6YR9F": false,
+            "01H9010YM799SXMN1KTRE2M5KC": true
+          }
+        },
+        {
+          "pattern": {
+            "01H9010YM7BG2FZK6TC9490523": true,
+            "01H9010YM78X5VV052VDNBX469": false,
+            "01H9010YM7QY2VX1TP6TM6YR9F": true,
+            "01H9010YM799SXMN1KTRE2M5KC": false
+          }
+        },
+        {
+          "pattern": {
+            "01H9010YM7BG2FZK6TC9490523": true,
+            "01H9010YM78X5VV052VDNBX469": false,
+            "01H9010YM7QY2VX1TP6TM6YR9F": true,
+            "01H9010YM799SXMN1KTRE2M5KC": true
+          }
+        },
+        {
+          "pattern": {
+            "01H9010YM7BG2FZK6TC9490523": true,
+            "01H9010YM78X5VV052VDNBX469": true,
+            "01H9010YM7QY2VX1TP6TM6YR9F": false,
+            "01H9010YM799SXMN1KTRE2M5KC": false
+          }
+        },
+        {
+          "pattern": {
+            "01H9010YM7BG2FZK6TC9490523": true,
+            "01H9010YM78X5VV052VDNBX469": true,
+            "01H9010YM7QY2VX1TP6TM6YR9F": false,
+            "01H9010YM799SXMN1KTRE2M5KC": true
+          }
+        },
+        {
+          "pattern": {
+            "01H9010YM7BG2FZK6TC9490523": true,
+            "01H9010YM78X5VV052VDNBX469": true,
+            "01H9010YM7QY2VX1TP6TM6YR9F": true,
+            "01H9010YM799SXMN1KTRE2M5KC": false
+          }
+        },
+        {
+          "pattern": {
+            "01H9010YM7BG2FZK6TC9490523": true,
+            "01H9010YM78X5VV052VDNBX469": true,
+            "01H9010YM7QY2VX1TP6TM6YR9F": true,
+            "01H9010YM799SXMN1KTRE2M5KC": true
+          }
+        }
+      ]
+    },
+    {
+      "questionId": "01H901FRG5E8E6DM7QK0SCJT7S",
+      "scoreTable": [
+        {
+          "pattern": {
+            "01H901FRG5RKSZ8J78K9JD6Z47": false,
+            "01H901FRG5XAKMXP269TZZDZ1T": false,
+            "01H901FRG5BR6NA3RW5NW9VXC3": false,
+            "01H901FRG5T8CA4FCWP8P79QYW": false
+          }
+        },
+        {
+          "pattern": {
+            "01H901FRG5RKSZ8J78K9JD6Z47": false,
+            "01H901FRG5XAKMXP269TZZDZ1T": false,
+            "01H901FRG5BR6NA3RW5NW9VXC3": false,
+            "01H901FRG5T8CA4FCWP8P79QYW": true
+          }
+        },
+        {
+          "pattern": {
+            "01H901FRG5RKSZ8J78K9JD6Z47": false,
+            "01H901FRG5XAKMXP269TZZDZ1T": false,
+            "01H901FRG5BR6NA3RW5NW9VXC3": true,
+            "01H901FRG5T8CA4FCWP8P79QYW": false
+          }
+        },
+        {
+          "pattern": {
+            "01H901FRG5RKSZ8J78K9JD6Z47": false,
+            "01H901FRG5XAKMXP269TZZDZ1T": false,
+            "01H901FRG5BR6NA3RW5NW9VXC3": true,
+            "01H901FRG5T8CA4FCWP8P79QYW": true
+          }
+        },
+        {
+          "pattern": {
+            "01H901FRG5RKSZ8J78K9JD6Z47": false,
+            "01H901FRG5XAKMXP269TZZDZ1T": true,
+            "01H901FRG5BR6NA3RW5NW9VXC3": false,
+            "01H901FRG5T8CA4FCWP8P79QYW": false
+          }
+        },
+        {
+          "pattern": {
+            "01H901FRG5RKSZ8J78K9JD6Z47": false,
+            "01H901FRG5XAKMXP269TZZDZ1T": true,
+            "01H901FRG5BR6NA3RW5NW9VXC3": false,
+            "01H901FRG5T8CA4FCWP8P79QYW": true
+          }
+        },
+        {
+          "pattern": {
+            "01H901FRG5RKSZ8J78K9JD6Z47": false,
+            "01H901FRG5XAKMXP269TZZDZ1T": true,
+            "01H901FRG5BR6NA3RW5NW9VXC3": true,
+            "01H901FRG5T8CA4FCWP8P79QYW": false
+          }
+        },
+        {
+          "pattern": {
+            "01H901FRG5RKSZ8J78K9JD6Z47": false,
+            "01H901FRG5XAKMXP269TZZDZ1T": true,
+            "01H901FRG5BR6NA3RW5NW9VXC3": true,
+            "01H901FRG5T8CA4FCWP8P79QYW": true
+          }
+        },
+        {
+          "pattern": {
+            "01H901FRG5RKSZ8J78K9JD6Z47": true,
+            "01H901FRG5XAKMXP269TZZDZ1T": false,
+            "01H901FRG5BR6NA3RW5NW9VXC3": false,
+            "01H901FRG5T8CA4FCWP8P79QYW": false
+          }
+        },
+        {
+          "pattern": {
+            "01H901FRG5RKSZ8J78K9JD6Z47": true,
+            "01H901FRG5XAKMXP269TZZDZ1T": false,
+            "01H901FRG5BR6NA3RW5NW9VXC3": false,
+            "01H901FRG5T8CA4FCWP8P79QYW": true
+          }
+        },
+        {
+          "pattern": {
+            "01H901FRG5RKSZ8J78K9JD6Z47": true,
+            "01H901FRG5XAKMXP269TZZDZ1T": false,
+            "01H901FRG5BR6NA3RW5NW9VXC3": true,
+            "01H901FRG5T8CA4FCWP8P79QYW": false
+          }
+        },
+        {
+          "pattern": {
+            "01H901FRG5RKSZ8J78K9JD6Z47": true,
+            "01H901FRG5XAKMXP269TZZDZ1T": false,
+            "01H901FRG5BR6NA3RW5NW9VXC3": true,
+            "01H901FRG5T8CA4FCWP8P79QYW": true
+          }
+        },
+        {
+          "pattern": {
+            "01H901FRG5RKSZ8J78K9JD6Z47": true,
+            "01H901FRG5XAKMXP269TZZDZ1T": true,
+            "01H901FRG5BR6NA3RW5NW9VXC3": false,
+            "01H901FRG5T8CA4FCWP8P79QYW": false
+          }
+        },
+        {
+          "pattern": {
+            "01H901FRG5RKSZ8J78K9JD6Z47": true,
+            "01H901FRG5XAKMXP269TZZDZ1T": true,
+            "01H901FRG5BR6NA3RW5NW9VXC3": false,
+            "01H901FRG5T8CA4FCWP8P79QYW": true
+          }
+        },
+        {
+          "pattern": {
+            "01H901FRG5RKSZ8J78K9JD6Z47": true,
+            "01H901FRG5XAKMXP269TZZDZ1T": true,
+            "01H901FRG5BR6NA3RW5NW9VXC3": true,
+            "01H901FRG5T8CA4FCWP8P79QYW": false
+          }
+        },
+        {
+          "pattern": {
+            "01H901FRG5RKSZ8J78K9JD6Z47": true,
+            "01H901FRG5XAKMXP269TZZDZ1T": true,
+            "01H901FRG5BR6NA3RW5NW9VXC3": true,
+            "01H901FRG5T8CA4FCWP8P79QYW": true
+          }
+        }
+      ]
+    },
+    {
+      "questionId": "01H901RKH2CZ1TG22DTBYNNT4B",
+      "scoreTable": [
+        {
+          "pattern": {
+            "01H901RKH2G0QQX2W6T0BPS50C": false,
+            "01H901RKH2QPSTD6TXWGAMW1TA": false,
+            "01H901RKH2CS7P7RSB8NB8RCKW": false,
+            "01H901RKH2KQ3N2KHGDT641CKN": false
+          }
+        },
+        {
+          "pattern": {
+            "01H901RKH2G0QQX2W6T0BPS50C": false,
+            "01H901RKH2QPSTD6TXWGAMW1TA": false,
+            "01H901RKH2CS7P7RSB8NB8RCKW": false,
+            "01H901RKH2KQ3N2KHGDT641CKN": true
+          }
+        },
+        {
+          "pattern": {
+            "01H901RKH2G0QQX2W6T0BPS50C": false,
+            "01H901RKH2QPSTD6TXWGAMW1TA": false,
+            "01H901RKH2CS7P7RSB8NB8RCKW": true,
+            "01H901RKH2KQ3N2KHGDT641CKN": false
+          }
+        },
+        {
+          "pattern": {
+            "01H901RKH2G0QQX2W6T0BPS50C": false,
+            "01H901RKH2QPSTD6TXWGAMW1TA": false,
+            "01H901RKH2CS7P7RSB8NB8RCKW": true,
+            "01H901RKH2KQ3N2KHGDT641CKN": true
+          }
+        },
+        {
+          "pattern": {
+            "01H901RKH2G0QQX2W6T0BPS50C": false,
+            "01H901RKH2QPSTD6TXWGAMW1TA": true,
+            "01H901RKH2CS7P7RSB8NB8RCKW": false,
+            "01H901RKH2KQ3N2KHGDT641CKN": false
+          }
+        },
+        {
+          "pattern": {
+            "01H901RKH2G0QQX2W6T0BPS50C": false,
+            "01H901RKH2QPSTD6TXWGAMW1TA": true,
+            "01H901RKH2CS7P7RSB8NB8RCKW": false,
+            "01H901RKH2KQ3N2KHGDT641CKN": true
+          }
+        },
+        {
+          "pattern": {
+            "01H901RKH2G0QQX2W6T0BPS50C": false,
+            "01H901RKH2QPSTD6TXWGAMW1TA": true,
+            "01H901RKH2CS7P7RSB8NB8RCKW": true,
+            "01H901RKH2KQ3N2KHGDT641CKN": false
+          }
+        },
+        {
+          "pattern": {
+            "01H901RKH2G0QQX2W6T0BPS50C": false,
+            "01H901RKH2QPSTD6TXWGAMW1TA": true,
+            "01H901RKH2CS7P7RSB8NB8RCKW": true,
+            "01H901RKH2KQ3N2KHGDT641CKN": true
+          }
+        },
+        {
+          "pattern": {
+            "01H901RKH2G0QQX2W6T0BPS50C": true,
+            "01H901RKH2QPSTD6TXWGAMW1TA": false,
+            "01H901RKH2CS7P7RSB8NB8RCKW": false,
+            "01H901RKH2KQ3N2KHGDT641CKN": false
+          }
+        },
+        {
+          "pattern": {
+            "01H901RKH2G0QQX2W6T0BPS50C": true,
+            "01H901RKH2QPSTD6TXWGAMW1TA": false,
+            "01H901RKH2CS7P7RSB8NB8RCKW": false,
+            "01H901RKH2KQ3N2KHGDT641CKN": true
+          }
+        },
+        {
+          "pattern": {
+            "01H901RKH2G0QQX2W6T0BPS50C": true,
+            "01H901RKH2QPSTD6TXWGAMW1TA": false,
+            "01H901RKH2CS7P7RSB8NB8RCKW": true,
+            "01H901RKH2KQ3N2KHGDT641CKN": false
+          }
+        },
+        {
+          "pattern": {
+            "01H901RKH2G0QQX2W6T0BPS50C": true,
+            "01H901RKH2QPSTD6TXWGAMW1TA": false,
+            "01H901RKH2CS7P7RSB8NB8RCKW": true,
+            "01H901RKH2KQ3N2KHGDT641CKN": true
+          }
+        },
+        {
+          "pattern": {
+            "01H901RKH2G0QQX2W6T0BPS50C": true,
+            "01H901RKH2QPSTD6TXWGAMW1TA": true,
+            "01H901RKH2CS7P7RSB8NB8RCKW": false,
+            "01H901RKH2KQ3N2KHGDT641CKN": false
+          }
+        },
+        {
+          "pattern": {
+            "01H901RKH2G0QQX2W6T0BPS50C": true,
+            "01H901RKH2QPSTD6TXWGAMW1TA": true,
+            "01H901RKH2CS7P7RSB8NB8RCKW": false,
+            "01H901RKH2KQ3N2KHGDT641CKN": true
+          }
+        },
+        {
+          "pattern": {
+            "01H901RKH2G0QQX2W6T0BPS50C": true,
+            "01H901RKH2QPSTD6TXWGAMW1TA": true,
+            "01H901RKH2CS7P7RSB8NB8RCKW": true,
+            "01H901RKH2KQ3N2KHGDT641CKN": false
+          }
+        },
+        {
+          "pattern": {
+            "01H901RKH2G0QQX2W6T0BPS50C": true,
+            "01H901RKH2QPSTD6TXWGAMW1TA": true,
+            "01H901RKH2CS7P7RSB8NB8RCKW": true,
+            "01H901RKH2KQ3N2KHGDT641CKN": true
+          }
+        }
+      ]
+    },
+    {
+      "questionId": "01H92PNCJPY5AW8JS21970SR2M",
+      "answerKey": {
+        "answer": -3,
+        "scoreCorrect": 5,
+        "scoreIncorrect": -1,
+        "scoreMissing": -2
+      }
+    }
+  ]
+}
